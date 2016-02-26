@@ -10,24 +10,42 @@ package com.example.u8sdk_qbao;
 public final class R {
     public static final class attr {
     }
+    public static final class dimen {
+        public static int padding_large=0x7f040002;
+        public static int padding_medium=0x7f040001;
+        public static int padding_small=0x7f040000;
+    }
     public static final class drawable {
-        public static int ic_launcher=0x7f020000;
-        public static int qb_checked=0x7f020001;
-        public static int qb_go=0x7f020002;
-        public static int qb_hide_pwd=0x7f020003;
-        public static int qb_loading=0x7f020004;
-        public static int qb_logo=0x7f020005;
-        public static int qb_show_pwd=0x7f020006;
-        public static int qb_tip=0x7f020007;
-        public static int qb_title_back=0x7f020008;
-        public static int qb_title_back_down=0x7f020009;
-        public static int qb_title_close=0x7f02000a;
-        public static int qb_title_close_down=0x7f02000b;
-        public static int qb_title_logo=0x7f02000c;
-        public static int qb_unchecked=0x7f02000d;
+        public static int ic_action_search=0x7f020000;
+        public static int ic_launcher=0x7f020001;
+        public static int qb_checked=0x7f020002;
+        public static int qb_go=0x7f020003;
+        public static int qb_hide_pwd=0x7f020004;
+        public static int qb_loading=0x7f020005;
+        public static int qb_logo=0x7f020006;
+        public static int qb_show_pwd=0x7f020007;
+        public static int qb_tip=0x7f020008;
+        public static int qb_title_back=0x7f020009;
+        public static int qb_title_back_down=0x7f02000a;
+        public static int qb_title_close=0x7f02000b;
+        public static int qb_title_close_down=0x7f02000c;
+        public static int qb_title_logo=0x7f02000d;
+        public static int qb_unchecked=0x7f02000e;
+    }
+    public static final class id {
+        public static int menu_settings=0x7f080000;
+    }
+    public static final class layout {
+        public static int activity_splash=0x7f030000;
+    }
+    public static final class menu {
+        public static int activity_splash=0x7f070000;
     }
     public static final class string {
-        public static int app_name=0x7f030000;
+        public static int app_name=0x7f050000;
+        public static int hello_world=0x7f050001;
+        public static int menu_settings=0x7f050002;
+        public static int title_activity_splash=0x7f050003;
     }
     public static final class style {
         /** 
@@ -51,10 +69,10 @@ public final class R {
     
  API 14 theme customizations can go here. 
          */
-        public static int AppBaseTheme=0x7f040000;
+        public static int AppBaseTheme=0x7f060001;
         /**  Application theme. 
  All customizations that are NOT specific to a particular API-level can go here. 
          */
-        public static int AppTheme=0x7f040001;
+        public static int AppTheme=0x7f060000;
     }
 }
