@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="product_subject">false</item>
+    <item type="id" name="product_price">false</item>
+    <item type="id" name="pay">false</item>
+    <item type="id" name="check">false</item>
+    <item type="id" name="fragment">false</item>
+    <item type="id" name="update_progress">false</item>
+    <item type="id" name="updateProgressBar">false</item>
+    <item type="id" name="LinearLayoutLogin">false</item>
+    <item type="id" name="webViewQQLogin">false</item>
+    <item type="id" name="buttonBack">false</item>
+</resources>

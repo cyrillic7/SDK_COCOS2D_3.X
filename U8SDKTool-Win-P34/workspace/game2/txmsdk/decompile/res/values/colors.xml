@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="opaque_blue">#ff0000ff</color>
+    <color name="transparent">#00000000</color>
+    <color name="black">#ff000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="notice_main_bg_color">#fff9f9f9</color>
+    <color name="notice_main_title_text_color">#ff666666</color>
+    <color name="notice_bg_color">#ffffffff</color>
+    <color name="notice_title_text_color">#ff328fff</color>
+    <color name="notice_content_text_color">#ff888888</color>
+    <color name="notice_line_color">#ffdfdfdf</color>
+    <color name="notice_btn_bg_color">#ffdddddd</color>
+    <color name="notice_btn_text_color">#ff328fff</color>
+    <color name="notice_theme_page_bkg_normal">#ffdfdfdf</color>
+    <color name="notice_web_loading">#ffa6a6a6</color>
+    <color name="notice_web_failed">#ff328fff</color>
+</resources>

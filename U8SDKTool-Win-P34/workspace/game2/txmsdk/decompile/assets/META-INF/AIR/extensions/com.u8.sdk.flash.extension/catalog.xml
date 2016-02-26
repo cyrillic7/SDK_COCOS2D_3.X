@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.14.1" build="20150325" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="com/u8/sdk/extension/data/U8ExtraGameData" mod="1448164065409" signatureChecksum="3201815498" >
+        <def id="com.u8.sdk.extension.data:U8ExtraGameData" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="com/u8/sdk/extension/U8SDKInterface" mod="1448164065607" signatureChecksum="126092512" >
+        <def id="com.u8.sdk.extension:U8SDKInterface" /> 
+        <dep id="flash.events:Event" type="e" /> 
+        <dep id="JSON" type="e" /> 
+        <dep id="trace" type="e" /> 
+        <dep id="com.u8.sdk.extension:U8SDKLoginEvent" type="e" /> 
+        <dep id="flash.events:StatusEvent" type="e" /> 
+        <dep id="com.u8.sdk.extension.data:U8LoginResult" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="Error" type="e" /> 
+        <dep id="com.u8.sdk.extension.data:U8PayParams" type="s" /> 
+        <dep id="flash.events:StatusEvent" type="s" /> 
+        <dep id="com.u8.sdk.extension.data:U8ExtraGameData" type="s" /> 
+        <dep id="com.u8.sdk.extension.data:U8LoginResult" type="s" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+      </script>
+      <script name="com/u8/sdk/extension/data/U8LoginResult" mod="1448164456359" signatureChecksum="2236263730" >
+        <def id="com.u8.sdk.extension.data:U8LoginResult" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="com/u8/sdk/extension/U8SDKLoginEvent" mod="1448164065687" signatureChecksum="289759032" >
+        <def id="com.u8.sdk.extension:U8SDKLoginEvent" /> 
+        <dep id="com.u8.sdk.extension.data:U8LoginResult" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:Event" type="i" /> 
+      </script>
+      <script name="com/u8/sdk/extension/data/U8PayParams" mod="1448182157403" signatureChecksum="2465800961" >
+        <def id="com.u8.sdk.extension.data:U8PayParams" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="_664d1033a9c5d487c01c9309f4d7e95473e65cf1546acf74c35a106f027600a7_flash_display_Sprite" mod="1448261634837" signatureChecksum="1074493619" >
+        <def id="_664d1033a9c5d487c01c9309f4d7e95473e65cf1546acf74c35a106f027600a7_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="d1ac53456cc2cd0dfffcf63955359b5dc18fb902cf0e82fad6fc7dc220d38b98"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>

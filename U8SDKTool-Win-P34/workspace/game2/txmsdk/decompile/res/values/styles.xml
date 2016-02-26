@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <style name="Theme.NoShadow" parent="@android:style/Theme.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="layout_fix">
+        <item name="android:layout_width">200.0dip</item>
+        <item name="android:layout_height">300.0dip</item>
+    </style>
+    <style name="layout_full">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="layout_wrap">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="layout_horizontal" parent="@style/layout_full">
+        <item name="android:layout_width">0.0px</item>
+    </style>
+    <style name="layout_vertical" parent="@style/layout_full">
+        <item name="android:layout_height">0.0px</item>
+    </style>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light" />
+    <style name="AppTheme" parent="@android:style/Theme.Light">
+        <item name="android:textSize">18.0px</item>
+    </style>
+    <style name="while_list_dialog" parent="@android:style/Theme.Translucent.NoTitleBar">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="dialogcustom" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Translucent</item>
+        <item name="android:layout_width">480.0px</item>
+        <item name="android:layout_height">250.0px</item>
+    </style>
+</resources>

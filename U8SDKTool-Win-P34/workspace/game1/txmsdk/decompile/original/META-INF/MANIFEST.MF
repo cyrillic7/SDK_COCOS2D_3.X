@@ -1,0 +1,1866 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/qipao1.png
+SHA1-Digest: dwu0xKoS0JqR5/aNXRT4us2Pi2o=
+
+Name: assets/modifyBankMM.json
+SHA1-Digest: hfDRp7t7Z0BBm+TmYJQ+Gb0tXaI=
+
+Name: assets/firstcharge4.png
+SHA1-Digest: ODhb0CClGBxZujR9/3iQrm/hHVU=
+
+Name: assets/fish2_2.png
+SHA1-Digest: tcPFT+LEptnJtqZyOdPUjBXpIQY=
+
+Name: assets/exitWidget.json
+SHA1-Digest: 5gKpszucUhLBs+xBT1G49zjgGZs=
+
+Name: assets/hall_bgmusic.mp3
+SHA1-Digest: x21CNCnxXylYafe3LveMpcLlZ4E=
+
+Name: assets/dntg2/images/players/gun03_normal.png
+SHA1-Digest: E7q2Ads5fJEk/NyUO8/VBG+YEcE=
+
+Name: assets/image_xiala.png
+SHA1-Digest: PxhTEwG/ieA/o5iVPO+KswzPMvE=
+
+Name: assets/audios/bomb_baozha.mp3
+SHA1-Digest: Xxzhu1vzIsIYZY8KS5IPA9UyAiA=
+
+Name: assets/dntg2/images/players/money_back3.png
+SHA1-Digest: V4BT+o/JZHhEZYvNAvebDfhIpDc=
+
+Name: assets/date_number.png
+SHA1-Digest: +z0qjYz/b/sCv3DUqZI7uIGjRTg=
+
+Name: assets/common/bullet/explode.png
+SHA1-Digest: 8Ye/cCBnEjsfWaTwgUq6GxjAlRI=
+
+Name: assets/chargeWidget.json
+SHA1-Digest: +M9Ptiv5usjaZwvvOQWLF1nvv6Q=
+
+Name: assets/dntg2/images/fish/fish_lvcaoyu_dying.png
+SHA1-Digest: VYt8DSDbHJO+dHy2Ha/RcS6U+sg=
+
+Name: assets/match/u_icon_Title.png
+SHA1-Digest: AUXWyXJYZZ+f7ISqX/x1ZB+4OTU=
+
+Name: assets/popbg.png
+SHA1-Digest: pvaZhLbIt+gvj/n8VFlOSISmcDw=
+
+Name: assets/match_time_num.png
+SHA1-Digest: w2KzJY4jld0VPfx1GdHSmJgJFuo=
+
+Name: assets/font_activity.png
+SHA1-Digest: DaCD4wCm5xYq61PYKBPbmX8d/JI=
+
+Name: assets/head/head5.png
+SHA1-Digest: EaER85TsMambZyV40BDCw6vttrw=
+
+Name: assets/charge_number2.png
+SHA1-Digest: vhCKlnrYq3eFwVYz00BMzvjMmF8=
+
+Name: assets/dntg2/images/fish/fish_haigui_walking.png
+SHA1-Digest: 2+IeAJQLsjDeU+tqy8A40O78LaE=
+
+Name: assets/particles/zhendong_baodian.png
+SHA1-Digest: Lz4lBhVIXC8lZsivrVqsNdVch6E=
+
+Name: assets/dntg2/images/bullet/bullet3_norm6.png
+SHA1-Digest: etD3qLqatsBc6ZaGACAyK0fG0Eg=
+
+Name: assets/assignWidget.json
+SHA1-Digest: eGJgxJAQepxDmfcabYTCSvJFkLg=
+
+Name: assets/userInfo.json
+SHA1-Digest: +oT7n2wkCK8zDoM0ngFm274KiLg=
+
+Name: assets/dntg2/images/fish/fish_hudieyu_walking.png
+SHA1-Digest: x+ahBqPQvsM7XJ7Rkjcky+J1XDw=
+
+Name: assets/match/u_icon_people.png
+SHA1-Digest: PjcNrAQFI5sFRXFNxfvPrSeYd5E=
+
+Name: assets/head/head2.png
+SHA1-Digest: y8IED1ICfO5TRhQBwctsxTukKC8=
+
+Name: assets/dntg2/images/players/gun03_me_double.png
+SHA1-Digest: V1y8tZ5naWjE3EqglfuowH+Rfrs=
+
+Name: assets/help_text2.png
+SHA1-Digest: +86Yqbf45+EPbcbABa/oz0zPK0g=
+
+Name: assets/btn_plus.png
+SHA1-Digest: rfsABTuPc057Ggei3SUTnIdVnrY=
+
+Name: assets/dntg2/images/fish/GreenLight.png
+SHA1-Digest: Z6vZNplwGJpylTukOqUzOXftb/0=
+
+Name: assets/vip_grade.png
+SHA1-Digest: iHtDzgt4wCzh82eFPrnVideGVsY=
+
+Name: assets/icon_bank_paimai.png
+SHA1-Digest: QYpPpaH3qsXw+IYzVVRSDqrzReY=
+
+Name: assets/icon_tast.png
+SHA1-Digest: lTpPf0hbwfJhdN4ja29CV9xRX3g=
+
+Name: assets/audios/fishdiescore.mp3
+SHA1-Digest: Z1KXCgDVLb4/lXnqfK8qWhsozrI=
+
+Name: assets/match/btn_unSignUp_on.png
+SHA1-Digest: 0Sg3Rhw4vrAJeQb5rAbPfEoNuZY=
+
+Name: assets/match/u_icon_ticket.png
+SHA1-Digest: NGkxTltcfm2HHHfWL9y/L/RnsxE=
+
+Name: assets/image_hall_vip7.png
+SHA1-Digest: Wcgksj+n/sxJ1UOF9WaVZlt+Htg=
+
+Name: assets/map/Wave_000_021.png
+SHA1-Digest: KiiJxhNazwR48igxkGnwJM/NHr0=
+
+Name: assets/particles/ciquan.png
+SHA1-Digest: N9ZApUChbAbHCUvR3097y8q3RV4=
+
+Name: assets/particles/paopaoxiangshang.png
+SHA1-Digest: BRE4EmJkNHzaHUMW3FZtWlkW2wI=
+
+Name: assets/dntg2/images/players/gun04_normal.png
+SHA1-Digest: WX4cHo8j0mgSoWfxJSR1jEHe9rU=
+
+Name: assets/match/u_text_2.png
+SHA1-Digest: /Ulh3UHspk3xW85WSKzvWpmBabw=
+
+Name: assets/dntg2/images/players/gun04_double.png
+SHA1-Digest: ulfYJA/M51kHtX4rtXkfaL1JD+U=
+
+Name: res/layout/softupdate_view.xml
+SHA1-Digest: dCoIqLkcVdtmGN1Cipb3zr9UOEA=
+
+Name: assets/match/u_icon_AwardTitle.png
+SHA1-Digest: r4VZYgoI0vUiWr+igRdxh7bw3UI=
+
+Name: assets/myBank.json
+SHA1-Digest: zAHfYLwUgqURgOidjn2o/8y3LYg=
+
+Name: assets/hall_vip_number.png
+SHA1-Digest: Wa/YAmVhJ47MWgDg9KJnAcRQbYY=
+
+Name: assets/dntg2/images/fish/yuqunquan.png
+SHA1-Digest: wHVJNOD0pBeXMc+cBO6dikZAlPI=
+
+Name: assets/dntg2/images/fish/fish_dayanyu_dying.png
+SHA1-Digest: BB7WsuoRS89VYqilP7xEo0neots=
+
+Name: assets/head/head9.png
+SHA1-Digest: N5NokkmAS9nGxT+xUz1rzzahJtI=
+
+Name: assets/matchEnterWidget.json
+SHA1-Digest: J5FYWyhvOS8FjcaRE/XDMEcH/yM=
+
+Name: assets/image_update_title.png
+SHA1-Digest: Gb/ZwlbQ38nBk7Te9uSyFh9lFHs=
+
+Name: assets/particles/dingshen0.plist
+SHA1-Digest: mhKvOpHaSclktMScYhIYUEPM5yA=
+
+Name: assets/jcpy.png
+SHA1-Digest: Bv/hAhX7gfnGE5f5RXJT8BTEB/c=
+
+Name: assets/map/Wave_000_014.png
+SHA1-Digest: z4nvp2u+7Bq77wauNN+25tKDbnw=
+
+Name: assets/particles/zhendong_quan.plist
+SHA1-Digest: iIi4DQi9wLesnzFZJNRp6j03qnQ=
+
+Name: assets/menu4.png
+SHA1-Digest: Jj3Z73FC2ObgHA0xfM12FPV+8m0=
+
+Name: assets/dntg2/images/fish/fish_kongqueyu_walking.png
+SHA1-Digest: j7ZzTeOa9M0Kk1LddgrHnl9qPLM=
+
+Name: assets/lkpy.png
+SHA1-Digest: wn8OJXGbGBUAqkE0sP6v6dQAKfk=
+
+Name: assets/accountLoginWidget.json
+SHA1-Digest: 58l8PMrp2gtbMrCTdrI2nWipjRg=
+
+Name: assets/dntg2/images/fish/qjfdiquan.png
+SHA1-Digest: w3bWqbx/6m6GYBQEfoEuFKHG33w=
+
+Name: assets/dntg2/images/fish/fish_swk_dying.png
+SHA1-Digest: zXCLN3ettKeKd7FpN6O2o+8m7os=
+
+Name: assets/firstcharge6.png
+SHA1-Digest: wYhJQbBNxejd6SjJFECxIpMPsPo=
+
+Name: assets/btn_charge.png
+SHA1-Digest: u3lmXq0pvxombUDCd5vzKpJNKoQ=
+
+Name: assets/dntg2/images/fish/fish_hudieyu_dying.png
+SHA1-Digest: 1poUgsKzaJuEdbX+ypLg0ga9VmY=
+
+Name: assets/smallhallbg.jpg
+SHA1-Digest: 02Sv/u0lZj+dE24aERtq/NJ3gVU=
+
+Name: assets/AnimationTip.png
+SHA1-Digest: 91k/qPpqZdkRhOs+xAvIKQYxBhQ=
+
+Name: assets/fish3_2.png
+SHA1-Digest: dZhgmsRTVTK526YoO+Vb/8Z1PJg=
+
+Name: assets/award_effect_6.png
+SHA1-Digest: Gt+YKYsdQ+znHIsKZAT6joB3ODo=
+
+Name: assets/match/u_btn_free_normal.png
+SHA1-Digest: qqiNucfL0KJ6u93/BWScNmoJztU=
+
+Name: assets/animation.plist
+SHA1-Digest: dbk5WnxmHZOBr3RNGVdfa6Q6op0=
+
+Name: assets/common/loading_circle_background.png
+SHA1-Digest: nLTVEAMFxWpsjQZy12fQ9SfwlA4=
+
+Name: res/drawable-ldpi/b_web_back.png
+SHA1-Digest: 9c8WSnhxzJveEovl2qP9pz7tjCM=
+
+Name: assets/head/head13.png
+SHA1-Digest: a+fFDZVNSDRuw5O6fPdjsBCIeu0=
+
+Name: assets/dntg2/images/bullet/bullet2_norm2.png
+SHA1-Digest: HyN4yPQ6dPjVbjbKXvN+49NYpeI=
+
+Name: assets/charge_number1.png
+SHA1-Digest: OwtesOxKMvGw37fq2x36lHSdc+s=
+
+Name: assets/audios/bullet_baozha.mp3
+SHA1-Digest: ZDta630Bitb9DiEJdChjynjzhIM=
+
+Name: assets/map/Wave_000_022.png
+SHA1-Digest: Iy/tYlrbiLgqjS8d84mYZasygHs=
+
+Name: assets/dntg2/images/static/out_ql.png
+SHA1-Digest: 5/pJRzXkzJU7bKVWxif/JGzKFqk=
+
+Name: assets/audios/highscore03.mp3
+SHA1-Digest: Dl+yw73lwnz9Rr089ii9nBq2P44=
+
+Name: assets/loading/progress_bar_bg.png
+SHA1-Digest: foxCkZFFCdDOjtRYCP+Odx3mpY0=
+
+Name: assets/assign_qipao2.png
+SHA1-Digest: CAFoEdWyOy42IiKs8ulFG4vTQ8g=
+
+Name: assets/fish1_3.png
+SHA1-Digest: bso1vLIquaD+55pBLSuEot13G6U=
+
+Name: assets/dntg2/images/fish/fish_xiaociyu_walking.png
+SHA1-Digest: DntrEhnIiy5WAQgFqWVa6He1Gc8=
+
+Name: assets/InputWidget.json
+SHA1-Digest: o8HpyMqJw9PWIVxcwb+9NlFk0qI=
+
+Name: assets/matchWiget.json
+SHA1-Digest: iOBnCgajH/6jXlmLXonopo54YVo=
+
+Name: assets/lb_value.png
+SHA1-Digest: FEssAxWVlqHMW3jbLHD5eaz0haE=
+
+Name: assets/particles/yuanbao.png
+SHA1-Digest: HaKWgHHEksNqFMXkUtEU0UxHJII=
+
+Name: assets/match/u_btn_enroll_invalid.png
+SHA1-Digest: grmPtufxi153uhbdnuOawFtXv38=
+
+Name: assets/match/u_text_lottery.png
+SHA1-Digest: c2+xyihJqbForRZ0EdY1Q3LNlnI=
+
+Name: assets/msgWidget.json
+SHA1-Digest: 5/5p+q2gAVwrGu7SMHPQ8W8UfOg=
+
+Name: assets/gameguide.png
+SHA1-Digest: oJtLl4ErN9uNSC3KSguGzck5BdI=
+
+Name: res/layout/pay_external.xml
+SHA1-Digest: bb1d69HmONrJDgNMZd1IBIpYJII=
+
+Name: assets/AnimationTip.plist
+SHA1-Digest: jlq5LyorGLkJuR1GODs0HPCM23Y=
+
+Name: assets/audios/qpzd_yuyin.mp3
+SHA1-Digest: 1xELXVNQzOX/nxUPU5BU+rfmM1w=
+
+Name: assets/dntg2/images/bullet/bullet4_norm4.png
+SHA1-Digest: EmaoxpBtElram8yTEchUbZqpmec=
+
+Name: assets/chuji.png
+SHA1-Digest: l8CrHYgA9nFpHmCZRp9YtK7qupw=
+
+Name: assets/dntg2/images/bullet/bullet4_norm5.png
+SHA1-Digest: qOUlfQZgkrM06mjcGjQfwfuvYCU=
+
+Name: assets/head/head6.png
+SHA1-Digest: gtQEHVfM51Spf1mdLYe49+yF5ss=
+
+Name: assets/award_effect_2.png
+SHA1-Digest: pQSPIG6q99rnC09u1QBwGCJ3TfA=
+
+Name: assets/btn_more.png
+SHA1-Digest: 30SXfOre5zT/XBUdCGkfaILCiRc=
+
+Name: assets/image_redpt.png
+SHA1-Digest: gaxrKzeVnRTIy5u04M3/qdghGVk=
+
+Name: assets/audios/inscore.mp3
+SHA1-Digest: 8hg0CJ2dGeLXQLIgpgNMWdBYijY=
+
+Name: assets/dntg2/images/players/turret_front.png
+SHA1-Digest: kknWWmvdZBSn2sWl1CR3YhjdYl4=
+
+Name: assets/image_update_fish.png
+SHA1-Digest: o7I1V3mv5WToyozUAZ2fH4oVIxo=
+
+Name: assets/award_effect_4.png
+SHA1-Digest: MFvXJVw8nNvErwg7Z80zlUTJqgs=
+
+Name: assets/match/u_bg_contest-awards.png
+SHA1-Digest: HVrucBWk0hrmiKOnt2BMejFfvq4=
+
+Name: assets/match/u_btn_free_touch.png
+SHA1-Digest: /muDhPoP36lnZewiVXvXyHnhb6o=
+
+Name: assets/particles/long_guangquan.plist
+SHA1-Digest: gPgH47Cr6Bt03yMLQxvk+dJdlCk=
+
+Name: assets/fish1_4.png
+SHA1-Digest: 5dySLPyaxeV8CEnNsF/DLZFdRFc=
+
+Name: assets/particles/yuanbao_bak.plist
+SHA1-Digest: yMr1I5iQrLRatgpAN5BL4cLmMAs=
+
+Name: assets/btn_shop_on.png
+SHA1-Digest: 9Y5pAlmuxkWsoNpdXh2OsMqONKs=
+
+Name: assets/modifyMM.json
+SHA1-Digest: Nx/OaeY3pkM/cHlTzo+BSYPoZP8=
+
+Name: assets/common/commonloading/loading_logo_6.png
+SHA1-Digest: jBGd0C0h2WwC/1Ed5SFgnTz+m+0=
+
+Name: assets/audios/highscore01.mp3
+SHA1-Digest: jf0EbhYJ+h8OOWpl8ba7LetBbuQ=
+
+Name: assets/dntg2/images/bullet/bullet2_double.png
+SHA1-Digest: qH9dVVGG+bJyPDG4krb6Pc0R5KM=
+
+Name: assets/vipPowerWidget.json
+SHA1-Digest: cQ1EUOc3fguDotjTIXuYFtRgfx4=
+
+Name: assets/match/u_bg_text-box.png
+SHA1-Digest: tZNe/6ft9gRNI6z+w81di//OgOI=
+
+Name: assets/match/u_bg_people.png
+SHA1-Digest: jDrLFLgL/0rGLaUfKC887fEHC28=
+
+Name: assets/image_hall_vip3.png
+SHA1-Digest: HRPGZdDBZYhc8UK4RgL08whuZYg=
+
+Name: assets/match/u_btn_free_invalid.png
+SHA1-Digest: qKaHpjFmSin8AjdF2pM2xqpJL8s=
+
+Name: assets/head/head1.png
+SHA1-Digest: TMpATr+2svCL3mjT4PM/d8BSg2M=
+
+Name: assets/dntg2/images/fish/fish_bawangjing_walking.png
+SHA1-Digest: 3YbPNZfp6MXovoE5xJSL+44w1GY=
+
+Name: assets/match/match_rank_num.png
+SHA1-Digest: 7HAotY01ZM6u7+muZUKEceGFfE0=
+
+Name: assets/down_default.png
+SHA1-Digest: 8Uu5SJD8KtL8esaM9w8kXcyQ/fw=
+
+Name: res/layout/pay_main.xml
+SHA1-Digest: GcmmiFm9Ic0ND9jmtJoPhbW7Zjs=
+
+Name: assets/match/u_text_ticket.png
+SHA1-Digest: Xgxrxw+JshLN5wxwRsfKn8gz28g=
+
+Name: assets/icon_j.png
+SHA1-Digest: jSCAkVTJcKH1LhldcW2tABhP02U=
+
+Name: assets/dntg2/images/players/turret0.png
+SHA1-Digest: +F6NpMZGmc3G34ErsHeyV+w7X74=
+
+Name: assets/icon_yuanbao_paimai.png
+SHA1-Digest: TPTXwvzBrSeU5ly7ctgyXIwMV7I=
+
+Name: assets/head/head3.png
+SHA1-Digest: 647V9RQ5L//23Ge7E8SAdJd+sNE=
+
+Name: assets/map/Wave_000_026.png
+SHA1-Digest: 5ocZDKoTSgwCY8wKfQxiXtcwdoA=
+
+Name: assets/audios/fhlzi.mp3
+SHA1-Digest: ZZ39aod2hSGbfp4M1qb0jc7Wf88=
+
+Name: assets/smallHallScene.json
+SHA1-Digest: L8vwELpR2+yWqOHzNwSwf8u0Gdo=
+
+Name: res/drawable-xxhdpi/b_web_back.png
+SHA1-Digest: OZumUJ9Ksk+ZN+AleS/ky0V7rmU=
+
+Name: assets/award_effect_number.png
+SHA1-Digest: Mrgki2av8y5UxU32QO5sNfyiWxw=
+
+Name: assets/match/u_hall_bg_line1.png
+SHA1-Digest: crVzeVWJCPQqvgwh/y1g6kxY7xE=
+
+Name: assets/dntg2/images/fish/fish_lanyu_dying.png
+SHA1-Digest: 1lr3tc8EAQpbYsLLhqG7OdPpvQE=
+
+Name: assets/dntg2/images/fish/fish_huabanyu_walking.png
+SHA1-Digest: XSRvqTjBDWsSb0cIkpmyq/S6UuY=
+
+Name: assets/image_down_loading.png
+SHA1-Digest: R6TC8Zrug1WFWVEX3qALlG05RIM=
+
+Name: assets/common/players/coin.png
+SHA1-Digest: Yf8UAY9v5PAYG84HUjGLvdUUag8=
+
+Name: assets/headicon_bg.png
+SHA1-Digest: wJcmS9BYDm1f5L22DHsTXF943ug=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: KcYUVyHYKBbzvLy20J4WmkQN7+c=
+
+Name: assets/particles/yuanbao_guangqiu.png
+SHA1-Digest: lxYYlaeNhPSizfdldqB1COsWM9Y=
+
+Name: assets/particles/zhendong_baodian.plist
+SHA1-Digest: EGuoL2oAliwl0i5Re22lDv3Sjl8=
+
+Name: assets/image_hall_vip.png
+SHA1-Digest: MRX1wlruGd13LNxuRQIanHtIF2k=
+
+Name: assets/icon_paimai.png
+SHA1-Digest: wWnnJre1ndyPkyY1J3a7LT/hDAk=
+
+Name: assets/image_hall_vipnum.png
+SHA1-Digest: Wa/YAmVhJ47MWgDg9KJnAcRQbYY=
+
+Name: assets/dntg2/images/bullet/bullet4_norm2.png
+SHA1-Digest: wTONkRhmOR2AY/z1d2391Z7Y7Xo=
+
+Name: assets/particles/xiquan.plist
+SHA1-Digest: vMZleevsx/fA4w0DalLsCnCePZw=
+
+Name: assets/gamecoin.png
+SHA1-Digest: 3bwhLxbiY/qzv3aNewbfnzpdUCg=
+
+Name: assets/audios/jgtzi.mp3
+SHA1-Digest: 5efIm8co6+NzO+Mcc+T9gEaZLn4=
+
+Name: assets/task_tiltle2.png
+SHA1-Digest: A5FZb0bVaW3VSShBUeRvPmi7KSY=
+
+Name: assets/dntg2/images/bullet/bullet2_norm1.png
+SHA1-Digest: 1rKDY6Il9/hRzKSO//I5nAXtfak=
+
+Name: assets/zhongji.png
+SHA1-Digest: sRZdbrV3C4mtoRjduxhFbAikWHg=
+
+Name: assets/loading/progress_bar_dntg.png
+SHA1-Digest: 6rU+mDYBfO/NOAKU5I/fYyLiOkU=
+
+Name: assets/particles/paopao.plist
+SHA1-Digest: 3JIaj8AKfUbZ6hcdhC5y63akPBc=
+
+Name: assets/task_btn_get.png
+SHA1-Digest: +3ksNFCc8Yjl6brt1bEg2+fMP2Q=
+
+Name: assets/dntg2/images/bullet/bullet3_double.png
+SHA1-Digest: SedkwL0QIsOQRt6YmKl7IVsmwkg=
+
+Name: assets/font_shop.png
+SHA1-Digest: lk+tVhlEQFZP6izjikP70G8gMwU=
+
+Name: assets/dntg2/images/players/gun03_double.png
+SHA1-Digest: o5zNdt+g8sbnncukY6yAMfQJ1f8=
+
+Name: assets/dntg2/images/fish/fish_xiaoyinlong_dying.png
+SHA1-Digest: 8inIHsCNAPhvYXr5SOCIIbc1zFY=
+
+Name: assets/dntg2/images/fish/fish_huangcaoyu_dying.png
+SHA1-Digest: x2yzFERO1wZHAbJjY9pyOaGk/4g=
+
+Name: assets/dntg2/images/players/gun02_normal.png
+SHA1-Digest: BTDlJbYrv5ahKE1JroB2izbjelA=
+
+Name: assets/yzm_time.png
+SHA1-Digest: Rxn4dBv03fcT+PN2WJsZHiCpKMQ=
+
+Name: assets/dntg2/images/map/map0.jpg
+SHA1-Digest: A7+SJ82jGcNgofO1x2/76HqHaso=
+
+Name: assets/match/u_btn_enrolling_normal.png
+SHA1-Digest: dULcBoDxBPbVsnFmv85hTEmYHBA=
+
+Name: assets/dntg2/images/bullet/bullet2_norm3.png
+SHA1-Digest: redxbbBa5Ua4EzSxnv6zu3hMLoU=
+
+Name: assets/particles/ci.png
+SHA1-Digest: 4atGpue2SJMuMkDOtgPdPh7Pcgg=
+
+Name: assets/KickOutTipBack.png
+SHA1-Digest: cV8t2w+RNjmz8FO0aNQcMDtyy7s=
+
+Name: assets/btn_msg.png
+SHA1-Digest: d8unM4x/hXdXAEe9bOo1pk1On0Y=
+
+Name: assets/common/commonloading/loading_logo_1.png
+SHA1-Digest: 8eLJNz/CNslodygzGmwfCMye+1w=
+
+Name: assets/fish1_5.png
+SHA1-Digest: rn+jraamT7P7jT2uinL9S9b7uvg=
+
+Name: assets/image_viip_tipbg.png
+SHA1-Digest: HRHpgZtNN5JsNrrUpmsQ+/L57Ds=
+
+Name: assets/audios/bingo.mp3
+SHA1-Digest: Y2TPDwfN85KkYR0VXV3nN2kd2IA=
+
+Name: assets/dntg2/images/fish/fish_foshou_walking.png
+SHA1-Digest: 4s2P9hUE7orqlwi+6hwuLpSuy7g=
+
+Name: assets/Splash/AnimationCompanyLogo.png
+SHA1-Digest: y+oKFOYhH0NywN54t1eMzRlZWgs=
+
+Name: assets/match/matchTimeResultWidget.json
+SHA1-Digest: Y6J059wLheB3HfdI1SCH2oFW3eU=
+
+Name: assets/font_exchange.png
+SHA1-Digest: qpLXR885jxTBpIUdJ3c+TiF7FvE=
+
+Name: assets/dntg2/images/fish/fish_jianyu_walking.png
+SHA1-Digest: QAuxUdXesy08fjVsx1FzbPPO434=
+
+Name: assets/animation_dead_jc.plist
+SHA1-Digest: mQrF8aQYQJMq+C3Z5zOybbH19ls=
+
+Name: assets/dntg2/images/bullet/bullet2_norm5.png
+SHA1-Digest: 6I3sYYmmiElFJPHOoLDgCWQ0xBI=
+
+Name: assets/image_hall_vipfish.png
+SHA1-Digest: goGpLYSxm+tU4x6yU9lqB6C/Ez8=
+
+Name: assets/firstcharge2.png
+SHA1-Digest: x56dxBR3nTrfET0ehW8R6qRiZ6s=
+
+Name: assets/dntg2/images/fish/fish_lvcaoyu_walking.png
+SHA1-Digest: Wcz4oHTjkAr5xkcZcetcaWKnq6g=
+
+Name: assets/water5.png
+SHA1-Digest: w06lyVHCb3PM9RfZnMiQcFjb+G8=
+
+Name: res/layout/web.xml
+SHA1-Digest: ySbJr1Z5l+nHeZkrsSRJMLZisQY=
+
+Name: assets/helpWidget.json
+SHA1-Digest: naAxrfhPFnODcZfjnrski8aHTlk=
+
+Name: assets/dntg2/images/fish/ScoreCircle.png
+SHA1-Digest: 1pzKE5DdjP+FLlOlyQia8I0dkFw=
+
+Name: assets/giftCovertWidget.json
+SHA1-Digest: 8UsjO2mHHjZWdlRiSVqb5AZeINw=
+
+Name: assets/fish1_7.png
+SHA1-Digest: 3DFJaOToDdwFfOO7QXSBVi5IXv0=
+
+Name: assets/bankInputMM.json
+SHA1-Digest: HuPz5ZD9M3ez1iLCX9R3/CSOjTY=
+
+Name: assets/audios/change_bg.mp3
+SHA1-Digest: P5IF0MRbUHljYabHsgu9mfzaRoM=
+
+Name: assets/fish1_2.png
+SHA1-Digest: 4zilu8t0UVLUBm7Pgf8WfVq05JY=
+
+Name: assets/firstcharge3.png
+SHA1-Digest: PUhXVLIStImDgAS68QZP59C5Ji4=
+
+Name: assets/match/btn_matchExit.png
+SHA1-Digest: j5s1WqausqB4COPt9GSaVRc0w58=
+
+Name: assets/common/loading_number.png
+SHA1-Digest: sEIMy26feODt2LP5YPXEZ6xjXTY=
+
+Name: assets/award_effect_7.png
+SHA1-Digest: va+biiDsiqh+rZyl/j2RGpi3dnQ=
+
+Name: assets/match_playCount_num.png
+SHA1-Digest: tgeJQwxv5H0SmjqOzo94jiTT6us=
+
+Name: assets/common/bullet/double_explode.png
+SHA1-Digest: EMY1k5IBLX7GVpTEiP+h7wJtBQY=
+
+Name: assets/dntg2/images/players/turret1.png
+SHA1-Digest: +F6NpMZGmc3G34ErsHeyV+w7X74=
+
+Name: assets/dntg2/images/fish/fish_bglu_walking.png
+SHA1-Digest: 8YVqjdGRzNLOQn2CfTiZzPI39co=
+
+Name: AndroidManifest.xml
+SHA1-Digest: s/kfym0tT4s/jtUmTA21mIZx/Vw=
+
+Name: assets/example_greyScale.fsh
+SHA1-Digest: ZRMPvAgtwCPwmeKGGMRARdEsvrA=
+
+Name: assets/audios/bg_03.mp3
+SHA1-Digest: BOCeQJUtET1kIjxI+65yUr+aLDQ=
+
+Name: assets/dntg2/images/fish/fish_bianfuyu_walking.png
+SHA1-Digest: sbD5LIijxrMv5uOOmGQjsj8oxhA=
+
+Name: assets/match/image_match_ready.png
+SHA1-Digest: 4jN2gV1P7mo58+D0V20cTfLIrkQ=
+
+Name: assets/audios/sunwukong.mp3
+SHA1-Digest: WrDgAFMEJsW5HaPMYVF8PpjWRtI=
+
+Name: assets/match/u_root_bg.png
+SHA1-Digest: knqU3sdtSkU6Y2E0isVfwFapphw=
+
+Name: res/drawable-mdpi/b_web_back.png
+SHA1-Digest: oInAjWRJBol/Be8ykmskZ9V8nuQ=
+
+Name: assets/map/Wave_000_002.png
+SHA1-Digest: g99tSKBlj8or7zI677qYVEVJu3I=
+
+Name: assets/particles/zhendong_xiquan.png
+SHA1-Digest: uAJ4UdbH/aPxZD6AWqtc5mcPqu4=
+
+Name: assets/dntg2/images/fish/fish_haigui_dying.png
+SHA1-Digest: mOxaM2wMwSbcJKWvFhEa4e4yIxU=
+
+Name: assets/map/tide.png
+SHA1-Digest: Q6tUnLyXFaetZ1ZVC78SBYkaMno=
+
+Name: assets/firstcharge1.png
+SHA1-Digest: onQdTTs1tVOPSp7mUnjtljP5WrY=
+
+Name: assets/assign_qipao1.png
+SHA1-Digest: 4V5aihLXI4vHXnLqJzd1ESgiz7A=
+
+Name: assets/map/Wave_000_003.png
+SHA1-Digest: o+i+yyzLIgwnISktvmDW9bXiCJ8=
+
+Name: assets/image_hall_vip6.png
+SHA1-Digest: 1I61pQfqCmQ0O+A8uf8CnLE1jjg=
+
+Name: assets/audios/addgun.mp3
+SHA1-Digest: 5J6O2Yj4KenY3E7EycnHUxPcDaA=
+
+Name: assets/dntg2/images/bullet/bullet2_norm6.png
+SHA1-Digest: RPA5+5nIVNdPykvV153tvXUGwt4=
+
+Name: assets/fish3_7.png
+SHA1-Digest: ORlTGH+d9pdu6QScANfnjOSUDS4=
+
+Name: assets/head/head7.png
+SHA1-Digest: x+xdH5mpYSqrcui3+bKPg9PRDHM=
+
+Name: assets/dntg2/images/fish/fish_jinsha_dying.png
+SHA1-Digest: HjGmiV4BG/i1Np0dao9rXd328HU=
+
+Name: assets/dntg2/images/fish/fish_xiaochouyu_dying.png
+SHA1-Digest: H7T41ZvvQ6pw3i3BPOnkq6HIXkU=
+
+Name: assets/font_assign.png
+SHA1-Digest: PR5g9Q9zAVi20noPHKc5RYxOb/E=
+
+Name: assets/moreGameWidget.json
+SHA1-Digest: /HRqIzqgvrKrj6SsAsUj+4oJJ9Y=
+
+Name: assets/particles/zhendong_ciquan.plist
+SHA1-Digest: bseA3v54h7hgOEuA43JyEPRBcJ4=
+
+Name: classes.dex
+SHA1-Digest: I6rO+zeuLAI2TXtlS0GThtE5FDE=
+
+Name: assets/font_mybag.png
+SHA1-Digest: BCZwEdDd8c9Lmm4O52x1YBztEJQ=
+
+Name: assets/dntg2/images/players/money_num.png
+SHA1-Digest: HwBSXssUY9ldscomgZVxCxtVgdc=
+
+Name: assets/dntg2/images/players/money_back2.png
+SHA1-Digest: seCQ34OQuD0MsSXDerDZXHycMXY=
+
+Name: assets/common/players/catch_num.png
+SHA1-Digest: g51/WoI+F0CUwElY6vLy/XnKsMg=
+
+Name: assets/head/head10.png
+SHA1-Digest: HYTrwKqhPoB0Ikmcb6mMScXg2eg=
+
+Name: assets/dntg2/images/fish/fish_bianfuyu_dying.png
+SHA1-Digest: M6k6xThEOPoIr+6PQiY+DbcA/wE=
+
+Name: assets/dntg2/images/fish/fish_xiaojinlong_walking.png
+SHA1-Digest: MEkE68Guc/mWUvdBHsTpN8WP1nU=
+
+Name: assets/audios/ryjgbzi.mp3
+SHA1-Digest: IWynHM5dAPsFgTtxFb8tQs0d8t0=
+
+Name: assets/common/commonloading/loading_logo_3.png
+SHA1-Digest: CR6DsPteJdFeWMJJ9CMHqhB6giA=
+
+Name: assets/icon_exchange.png
+SHA1-Digest: X7obnV9kGGyAAwG/RfOft3BiKu0=
+
+Name: assets/dntg2/images/static/out_swk.png
+SHA1-Digest: 6UM6WdsEp3RJ6zZ2QqcHfjU4ly0=
+
+Name: assets/match/u_bg_duangduang.png
+SHA1-Digest: FSI++rF0nCaim46nTFqXkMqHfIM=
+
+Name: assets/common/players/jetton_bgc2.png
+SHA1-Digest: lDzgszzLTD8x8M2GCKvhzYjnNh0=
+
+Name: assets/mainbg.jpg
+SHA1-Digest: uPK72Ul0f35naAIdQ6bxd7Znqow=
+
+Name: assets/common/commonloading/loading_logo_7.png
+SHA1-Digest: HFvR54ou76Uu+tvmKDq7bHEyA7U=
+
+Name: assets/taskWidget.json
+SHA1-Digest: kJ8qmEQ6Wel83vtANDl1XhoolUI=
+
+Name: assets/icon_account.png
+SHA1-Digest: L8Q8qgNAwm6YcT3Cdare6zrkR9o=
+
+Name: assets/map/Wave_000_001.png
+SHA1-Digest: aLnhZzUVSkfmdhhIpXq9gpqgDwo=
+
+Name: assets/dntg2/images/bullet/bullet3_norm3.png
+SHA1-Digest: SbuhnY26zAxC9OTBZLbFaalkYMs=
+
+Name: assets/dntg2/images/fish/fish_yuwangdadi_walking.png
+SHA1-Digest: +uDzORSocu+L96ZoNHE3Evqkzys=
+
+Name: assets/edit_box.png
+SHA1-Digest: g3cP5sfX8Cqkat8K8EpfdWw7alg=
+
+Name: assets/audios/bg_01.mp3
+SHA1-Digest: 5X9sIjCLM3B4cNMWRJAI38V/mFw=
+
+Name: assets/particles/zhendong_quan.png
+SHA1-Digest: 7+HBWavkuONmo7hqLrzgwOj8+l0=
+
+Name: assets/common/players/catch_num_me.png
+SHA1-Digest: V4n3OHH4JKArwX/i0hLxj4W6N9Y=
+
+Name: assets/fish1_1.png
+SHA1-Digest: StFtYKeT9OHIqhUxGCOI+74f5C0=
+
+Name: assets/head/head14.png
+SHA1-Digest: HDhoMWx1R9CILzRYcGGkbYGVaW8=
+
+Name: assets/loading/progress_bar_dntg_bg.png
+SHA1-Digest: ANQiqMHxLMOKqi/Qobm7NcG65sI=
+
+Name: assets/particles/paopao.png
+SHA1-Digest: 3OjTs94tUhcBqlqKZQpu7ulxF9c=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: EtDMf37DizzbI9v/ZbveNKa/Txo=
+
+Name: assets/settingScece.json
+SHA1-Digest: tt64RDweDRVk+ysuTMaTVJfccaY=
+
+Name: assets/loading/progress_cur_jc2.png
+SHA1-Digest: Pgyaqfr3nZLXqylGX1tGeOQ0vfo=
+
+Name: assets/audios/bg_02.mp3
+SHA1-Digest: vPr938Jwk+pjhxjDO+7N+tWZkk0=
+
+Name: assets/loading/progress_cur_lk.png
+SHA1-Digest: 7hOz3vjxIDHLUDXQ5LWxuQtPbsM=
+
+Name: assets/particles/bomb3.plist
+SHA1-Digest: UczSPw/TZ17UUWC3ZxRfm+rU7qI=
+
+Name: assets/bullet_jcby.png
+SHA1-Digest: e9kFVtprGszdYkozM08QUzZMpOg=
+
+Name: res/drawable-xxxhdpi/b_web_back.png
+SHA1-Digest: ukqWpColy17BvODhCz0Zg381EcQ=
+
+Name: assets/head/head4.png
+SHA1-Digest: JGS9tnE2JvG1oKhVbmQaSk9/YB8=
+
+Name: assets/bullet_dntg.png
+SHA1-Digest: SUy9PBZja0CfHI+QpozFyWudTwM=
+
+Name: assets/match/btn_signUp_on.png
+SHA1-Digest: pjL+qlM5Ol+r+OqfSDH0pq78nFs=
+
+Name: assets/audios/hitbagualu.mp3
+SHA1-Digest: Ie1nN1SS7Y9SUSF1cnPxMLAfTgs=
+
+Name: assets/buyAertWidget.json
+SHA1-Digest: Vp198Wj38tPHD8vAbobEd+qlDXY=
+
+Name: assets/shayu1.png
+SHA1-Digest: UOwYq+6DOHh+M/P6eQh38uojgk0=
+
+Name: assets/wxshareCode.png
+SHA1-Digest: cwRhwDYssD1b2m4zneMojmpXsJ0=
+
+Name: assets/menu3.png
+SHA1-Digest: UTGUf8L1oXkJR1YDHlT7+eGmH1Y=
+
+Name: assets/loading/background.jpg
+SHA1-Digest: 2oUNbaTQ5TDUxdC2BMtxn2v5+Uw=
+
+Name: assets/match/u_bg_time.png
+SHA1-Digest: 38YOZJIt/sCEP+/HRpFs0AeL4dk=
+
+Name: assets/task_number.png
+SHA1-Digest: WQNwntvAq3KBuawwz02ZE0l+BWs=
+
+Name: assets/particles/paopaoxiangshang.plist
+SHA1-Digest: 2tTpS6DNGUWpDhErLRY5KqQ+vTM=
+
+Name: assets/btn_xiala.png
+SHA1-Digest: 6ThuEbbFok9Qwi7HrmY7Nbnb6gI=
+
+Name: assets/catch_num.png
+SHA1-Digest: g51/WoI+F0CUwElY6vLy/XnKsMg=
+
+Name: assets/mainScene.json
+SHA1-Digest: 0OacWIf8kRm8ivIMwvUv+5GapoM=
+
+Name: assets/head/head8.png
+SHA1-Digest: FQNcg5yzWV2gEzBaOqj2WNET7ok=
+
+Name: assets/bullet_dntg.plist
+SHA1-Digest: b71rc7wQZpi9G2MnpgynjdLE4a0=
+
+Name: assets/dntg2/images/fish/fish_meirenyu_dying.png
+SHA1-Digest: fBx0xIGaFTsdKSqv2bBdVu2A3CU=
+
+Name: assets/dntg2/images/fish/fish_huangbianyu_walking.png
+SHA1-Digest: 5K4GKxFCaaHLCVnJcPpheKQUqvQ=
+
+Name: assets/particles/zhendong_ciquan2.plist
+SHA1-Digest: wWm1gd90BCZblqPV2NfbzKd0hxI=
+
+Name: assets/room_bgmusic.mp3
+SHA1-Digest: AatsLSutg3/PyG8kANdOZHRuqI8=
+
+Name: assets/firstcharge5.png
+SHA1-Digest: h3i/eBwQ7f5BMXuUOUuoZePIchI=
+
+Name: assets/audios/highscore04.mp3
+SHA1-Digest: ZP1WthMGYQlAjhy1m91pSRuonqA=
+
+Name: assets/match/btn_unSignUp.png
+SHA1-Digest: LNXHK/1u7CrpCZQOdWrfeG9UkmI=
+
+Name: assets/dntg2/images/fish/fish_huangbianyu_dying.png
+SHA1-Digest: Imm4GwggNibCIbCDaIW7qQgo5tg=
+
+Name: assets/descripWidget.json
+SHA1-Digest: SYL1AP8vGliDl8JmEJX6ie+Z9D8=
+
+Name: assets/dntg2/images/fish/fish_kongqueyu_dying.png
+SHA1-Digest: VnJpkdbUTxcQ5/v5yuYCiILg5WA=
+
+Name: assets/match/btn_free_on.png
+SHA1-Digest: Vq4sy4CHBkgtRSDK8nQ5jJ37n5c=
+
+Name: assets/common/static/out_jinlong.png
+SHA1-Digest: SQUSpvtydwdx6OBEIhRe7DXXzyk=
+
+Name: assets/font_bank2.png
+SHA1-Digest: 8Z0BH1uDJteJvoClvOhqcZN95BQ=
+
+Name: assets/dntg2/images/bullet/explode.png
+SHA1-Digest: 8Ye/cCBnEjsfWaTwgUq6GxjAlRI=
+
+Name: assets/award_effect_5.png
+SHA1-Digest: XVOrSm+0yEfa7gPii2HkP4bWjuI=
+
+Name: assets/dntg2/images/players/gun02_me_double.png
+SHA1-Digest: yMBzUAj0fDLh8wad710ivfdBcmM=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: pEuA06EB6Hvhvan8YE/+gYYHn6A=
+
+Name: assets/tipWidget.json
+SHA1-Digest: ZAKR0aIAw+laYee2xgGiHN6hWUk=
+
+Name: assets/charge_bg.png
+SHA1-Digest: AtCZx5CJKKkZuz8zVi9KvdSUxNA=
+
+Name: assets/dntg2/images/fish/fish_huangcaoyu_walking.png
+SHA1-Digest: viySSde02/jTqa+HWsJKbcBuBHc=
+
+Name: assets/map/Wave_000_005.png
+SHA1-Digest: mwOxQWpsS0CM1/6v60oFcrJck7I=
+
+Name: assets/dntg2/images/fish/fish_yuwangdadi_dying.png
+SHA1-Digest: 5wY2sTCsfg/x/amwhCvwJbPq/WI=
+
+Name: assets/star.png
+SHA1-Digest: vhy9SqhsVMt7bS+Tn2FdYyB/048=
+
+Name: assets/font_share.png
+SHA1-Digest: GcCqPq3ulLFCEmiZ+8DIiLQ1YNk=
+
+Name: assets/dntg2/images/players/turret5.png
+SHA1-Digest: YkrbI8yLtR9y5NRkMCkdLSLjXbo=
+
+Name: assets/fish2_5.png
+SHA1-Digest: 7UsFB5e2xZ8Br76nu574/HVddMM=
+
+Name: assets/dntg.png
+SHA1-Digest: fIWR5e2aI5mtpiTbM3MkmLiRH44=
+
+Name: assets/match/u_bg_title1.png
+SHA1-Digest: 20A0mHk0pCmJzm/MZNSiodRLEY0=
+
+Name: assets/dntg2/images/fish/fish_yinsha_dying.png
+SHA1-Digest: 68QJjwv2HnnVinuoTEYILe5jaVI=
+
+Name: assets/updateWidget.json
+SHA1-Digest: cN/KuQhAeD4tgboSlsad5HmflP4=
+
+Name: assets/gamefish.plist
+SHA1-Digest: hjeaf5CQuvnSc6xLxg+hqNTrvcM=
+
+Name: assets/bigpopbg.png
+SHA1-Digest: 3D/1UKGoM1PR1TQzYjHzjek+SE4=
+
+Name: assets/audios/fire.mp3
+SHA1-Digest: Dw1fZXtmP3FEdJ3MqJdOFSyZqVg=
+
+Name: assets/qipao4.png
+SHA1-Digest: WxZLOLf/hhBSjdRbVOidlkq7WwM=
+
+Name: assets/water1.png
+SHA1-Digest: DBD0BKq+Hi11Je8hiaIidGdk1jA=
+
+Name: res/drawable-xhdpi/b_web_back.png
+SHA1-Digest: sGfCz9/N/BYZWm/SX2mgaHn4RmA=
+
+Name: assets/dntg2/images/fish/fish_xiaojinlong_dying.png
+SHA1-Digest: Iq6l8Dgdntu8TuMrqOvd+ViTi7k=
+
+Name: assets/award_effect_3.png
+SHA1-Digest: g8a048fLz9iLhtjDj6OxR6MguYw=
+
+Name: assets/shayu2.png
+SHA1-Digest: OzfdT1SBXAwUdosvYX2J61zQfKU=
+
+Name: assets/bubble1.png
+SHA1-Digest: TetXjH23zm+RWfwVM5pxf+FgZD8=
+
+Name: assets/dntg2/images/fish/fish_swk_walking.png
+SHA1-Digest: zF3HoioJaJAL+4Llrpl9w/YWTYI=
+
+Name: assets/fish3_6.png
+SHA1-Digest: rWN6D3zIxqsW8PhaTm4VQZj64Eg=
+
+Name: assets/dntg2/images/fish/LChainFlag.png
+SHA1-Digest: QiveSS2qgetzEWonTPltKhFMuy4=
+
+Name: assets/particles/baozha.png
+SHA1-Digest: dk63uiuMs4Q5zhjCmb21e3/Bgio=
+
+Name: assets/firstcharge7.png
+SHA1-Digest: +SIfpivzyA90zkgl2rVFgyx/SIk=
+
+Name: assets/map/Wave_000_015.png
+SHA1-Digest: Gfo6mUn7YNuthGqvrtT27LMexvg=
+
+Name: assets/gold.png
+SHA1-Digest: b3HsfuxG2I/Flq65ByGtjzwWwbM=
+
+Name: assets/nulltitle.png
+SHA1-Digest: 3Z80HWApsfpA8h4QWpKpiPEyWko=
+
+Name: assets/dntg2/images/bullet/bullet4_double.png
+SHA1-Digest: VbTpufsHkLiU8dSp6Zd2S8TLmtg=
+
+Name: assets/map/Wave_000_016.png
+SHA1-Digest: vpaJOK1FhjOiNOmVeVJ4bnPxdFQ=
+
+Name: assets/particles/qipao.plist
+SHA1-Digest: 3pqK0UECEAaFqRt6FJvvbBYFe+0=
+
+Name: assets/map/Wave_000_019.png
+SHA1-Digest: LtGWRt1tWUzvVS4mjrlwgsObFZM=
+
+Name: assets/tip_frame.png
+SHA1-Digest: 7TkifH1sjw7WM3fTmXwH9s01cVM=
+
+Name: assets/costnumber.png
+SHA1-Digest: Qgqk9pMNQ4/pyCfvWESSzP7DIDA=
+
+Name: assets/dntg2/images/fish/fish_huabanyu_dying.png
+SHA1-Digest: tEYpPcbGVIMJSa8euCjB01gbE1A=
+
+Name: assets/map/Wave_000_020.png
+SHA1-Digest: boSax3gF/resRJAQV3Q1cfpQnYI=
+
+Name: res/drawable-hdpi/b_web_back.png
+SHA1-Digest: i+3e8p2+JvcfK3j7Tc4qtALaGhE=
+
+Name: assets/head/head12.png
+SHA1-Digest: gUanlOWjBNpr2/ybx1HJo7Fz1zs=
+
+Name: assets/button_bg_blue.png
+SHA1-Digest: 09bjdlTppb0dbbWf874hISx0Hzs=
+
+Name: assets/common/players/baoji.png
+SHA1-Digest: /U2FG23LtK7O1tr6CqDMnB8/eEY=
+
+Name: assets/match/u_btn_enrolling_touch.png
+SHA1-Digest: HPnKaHuU8tneaURDF8pC9hqs+/Q=
+
+Name: assets/feedbackWidget.json
+SHA1-Digest: fAos6ywCqxC1ZSfOUUkoMau8isY=
+
+Name: assets/map/Wave_000_013.png
+SHA1-Digest: rcPFA0up+qSl34z8XN0I6b58Lgc=
+
+Name: assets/dntg2/images/static/frame_top.png
+SHA1-Digest: BdUnnATgYB6cwMczKy7G1s062v0=
+
+Name: assets/dntg2/images/players/money_back5.png
+SHA1-Digest: 0IeS+xywfKLQ7snNuzYo0gwTSBU=
+
+Name: assets/fish2_4.png
+SHA1-Digest: X206een86CssF0fpPW3yoV7wM0k=
+
+Name: assets/dntg2/images/fish/yssnquan.png
+SHA1-Digest: 4YOp7XOlxgxGEM6wpKU+mCyiBwA=
+
+Name: assets/match/u_btn_free_click.png
+SHA1-Digest: Vq4sy4CHBkgtRSDK8nQ5jJ37n5c=
+
+Name: assets/menu1.png
+SHA1-Digest: gXpSgFClQaZTqwc3S6ZM55L/Wvc=
+
+Name: assets/gameguide.plist
+SHA1-Digest: fOZ4fkWa3AQKxhls2dqA1FGeF+0=
+
+Name: assets/fish3_3.png
+SHA1-Digest: 0+T/VTyL6CjgHoBuVdrmFhPjR8s=
+
+Name: assets/icon_activity.png
+SHA1-Digest: D2giN7nXrd48Y5VNiRui7FmwWg8=
+
+Name: assets/map/Wave_000_000.png
+SHA1-Digest: KFW/nDxdQrRG4t/BwWEGvpwALko=
+
+Name: res/layout/webview_layout.xml
+SHA1-Digest: FroYQEKX9+QbGb5Tx3flW7ZqQuE=
+
+Name: assets/match/u_text_gold.png
+SHA1-Digest: J9xgZ877ldP1Iy7W89Ta4qOGMpg=
+
+Name: assets/common/players/turret_lv_num.png
+SHA1-Digest: JFPdVKeQeLKwWvpviJGIru+idFw=
+
+Name: assets/particles/yuanbao_ciquan01.plist
+SHA1-Digest: Qj7s85igS/kINnwgc6XJZZ/tzBI=
+
+Name: assets/map/Wave_000_017.png
+SHA1-Digest: UTfUujOMa+NNr/fUH1oh0VKEtrk=
+
+Name: assets/particles/zhendong_ci.png
+SHA1-Digest: 4atGpue2SJMuMkDOtgPdPh7Pcgg=
+
+Name: assets/common/players/bingo.png
+SHA1-Digest: 6gLxoyYRlY0mNSxNPqNlT7A7ybY=
+
+Name: assets/u_icon_weixin.png
+SHA1-Digest: LS/xMgMAIfq+ACh4GAxyF9AAOnI=
+
+Name: assets/common/static/out_jinsha.png
+SHA1-Digest: tNrl0bKhAHWCQ1uLtW89cwCWLXI=
+
+Name: assets/map/Wave_000_011.png
+SHA1-Digest: qtnJCrWesLSA//TiYFR6GnVHUO8=
+
+Name: assets/match/u_bg_title2.png
+SHA1-Digest: TejtxV40tfQqBeYsOxjuU8J3Z8Y=
+
+Name: assets/dntg2/images/players/gun04_me_double.png
+SHA1-Digest: AshAr7fDkZI47r98r6/mIyROBmk=
+
+Name: assets/map/Wave_000_012.png
+SHA1-Digest: r8pXKqo6vR4RdMzNEQHu8w0HIwo=
+
+Name: assets/shopWidget.json
+SHA1-Digest: oBLyNtSgEsbMo7wXeOPXYyRcOwQ=
+
+Name: assets/common/commonloading/loading_logo_bg.png
+SHA1-Digest: 9Bz7/piW1iIezy/l/ErBZxx2TKA=
+
+Name: assets/loading/progress_bar.png
+SHA1-Digest: LckKdlhlO5HQ06CL9rV4Z1jOHNY=
+
+Name: assets/match/btn_signUp.png
+SHA1-Digest: dULcBoDxBPbVsnFmv85hTEmYHBA=
+
+Name: assets/forgetLoginPwdWidget.json
+SHA1-Digest: IB5BIL/W8s8/TFFPJsioU08QmS0=
+
+Name: assets/dntg2/images/bullet/bullet3_norm2.png
+SHA1-Digest: F7MmXXFA+LmnfN62fuY4ta2vUO0=
+
+Name: assets/icon_share.png
+SHA1-Digest: jqhuMoXUAQZC2luyejkSuB60Les=
+
+Name: assets/particles/ci.plist
+SHA1-Digest: cqvnhXIurp+JU6Wl9dnJ5oh6MWQ=
+
+Name: assets/match/u_text_1.png
+SHA1-Digest: mcbiKmUn/fKgKNHPp2qBSt3qpS4=
+
+Name: assets/u_text_share.png
+SHA1-Digest: YQXbM+xpmLgW3S6pgZQOKTL6vkI=
+
+Name: assets/match/match_title.png
+SHA1-Digest: WqcgVJarMFeSTAhJRrQdebLPIh8=
+
+Name: assets/guide_skw.plist
+SHA1-Digest: 46c5Rg+7jkMg2yXJKQRf4cgyscA=
+
+Name: assets/btn_hall_vip.png
+SHA1-Digest: uQhP5FNBBoJexvfaDawEhSuSX64=
+
+Name: assets/particles/yuanbao_baodian.png
+SHA1-Digest: wzAjhDW8D5W+cMNBb2yBjNBRDbI=
+
+Name: assets/match/u_text_3.png
+SHA1-Digest: wgtqdjigJ5XP3sx3r08nCqjjlY0=
+
+Name: assets/dntg2/images/fish/fish_xiaociyu_dying.png
+SHA1-Digest: I76iBhADYhd1YFqiSPX2nVSbZVk=
+
+Name: assets/match/u_bg_brown.png
+SHA1-Digest: rNA65JygUwX5QRKS7UjGOfoH8ZM=
+
+Name: assets/u_text_titel_exchang.png
+SHA1-Digest: jLJpbz8arl44fHdxcp07W1iMuaU=
+
+Name: assets/btn_vip_acitive.png
+SHA1-Digest: HqBCRpbZkrQYz0Z3fdCSCjAnYOc=
+
+Name: assets/dntg2/images/fish/dntgquan.png
+SHA1-Digest: DMq3Th4d4fVMRdgtEiGKVFHjJ40=
+
+Name: assets/help_text1.png
+SHA1-Digest: ir7xVj8Cd9HC/YNSSLNZ4k9U2vo=
+
+Name: assets/common/commonloading/loading_logo_2.png
+SHA1-Digest: Fwc3nFUBch4Sd1J8AdSnAQZVMlQ=
+
+Name: assets/particles/glow.png
+SHA1-Digest: y9d/g4anSTeuc2ci1OsP/LL4Pbs=
+
+Name: assets/dntg2/images/players/gun04_me_normal.png
+SHA1-Digest: fnSJQT+aEyAoMkOT905Wmg7XGqg=
+
+Name: assets/animation_dead.plist
+SHA1-Digest: hD/eC8keUf8A3TILmZSitRiBLnA=
+
+Name: res/drawable-hdpi/msp_demo_title_bg.png
+SHA1-Digest: B+AVL4gSjI8BfpJqxFA750gzBeI=
+
+Name: assets/particles/dingshen0.png
+SHA1-Digest: d3nV4QWBjw8ROwe6H1U641ZRl7s=
+
+Name: assets/bindPhoneWidget.json
+SHA1-Digest: kAP1QH60b4yOU+NSkyjZcvMhx5M=
+
+Name: assets/btn_shop.png
+SHA1-Digest: fJDerqCYgTb4ZWJ4E+P8TR5DE8k=
+
+Name: assets/match/game_math_bg.png
+SHA1-Digest: +fiPPcEnwh3qyReEriBgTBIYwRo=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: mOUtUwBArPa3rbgAO8lBR6RbZNk=
+
+Name: assets/map/Wave_000_030.png
+SHA1-Digest: W2vdDzcnTeEW7tZIVmygMUoLw40=
+
+Name: assets/login_bgmusic.mp3
+SHA1-Digest: SS1jwh7QH0wIRhRnbMTzveStBJw=
+
+Name: assets/Splash/AnimationTitleLogon.png
+SHA1-Digest: BBujBiWIrgZlxGIO0/5QUkOKoMQ=
+
+Name: assets/map/Wave_000_024.png
+SHA1-Digest: LKl543R9HRbsBJg5AnabCGA6CyY=
+
+Name: assets/task_tiltle3.png
+SHA1-Digest: 8zKT7Vu0zWe4ql+X6mYKrCjTQYQ=
+
+Name: res/drawable-xxxhdpi/icon.png
+SHA1-Digest: 4uKyI8gv0LSIaWJ674/WReSnYOw=
+
+Name: assets/match/u_icon_high.png
+SHA1-Digest: E+WqgrfxBZCpyEaqgr22L9+L+lk=
+
+Name: assets/animation_lk.plist
+SHA1-Digest: sI4kOERjZy0bZeBxyFudup2Lng4=
+
+Name: assets/match_red_num.png
+SHA1-Digest: V4n3OHH4JKArwX/i0hLxj4W6N9Y=
+
+Name: assets/match/u_hall_light2.png
+SHA1-Digest: rFychYgyEHC/AgGEs2z+Pu3oH6U=
+
+Name: assets/guide_jc.plist
+SHA1-Digest: HwuoDxBfRuHSqjIFzVT3d1CkrPw=
+
+Name: assets/fish3_1.png
+SHA1-Digest: Tte28PCjopqCiYRvYGcMGs6DN8I=
+
+Name: assets/dntg2/images/fish/fish_lanyu_walking.png
+SHA1-Digest: ZJfsQwCFPdrozpGFaNNinXgnu18=
+
+Name: assets/fish2_7.png
+SHA1-Digest: mwA/rqjRNDY/ezCwcThcWxx/Sl4=
+
+Name: assets/forgetPwdWidget.json
+SHA1-Digest: df9kHHNa3SZe7JGpHUq5+SszgxI=
+
+Name: assets/match/u_text_enrolling.png
+SHA1-Digest: DIKEn8J8lVi7y73MNV2vcctUER0=
+
+Name: assets/dntg2/images/map/map2.jpg
+SHA1-Digest: lg87P7/QpAfEUNax4ia+kaMWkHg=
+
+Name: assets/head_bg.png
+SHA1-Digest: 4lyhivFJcqtEuqwH3C6HLnHfKEk=
+
+Name: assets/wxShareWidget.json
+SHA1-Digest: /VTUi52H0km+xGlOqQ7+bcTHf+Y=
+
+Name: assets/dntg2/images/fish/fish_yinsha_walking.png
+SHA1-Digest: a8kPDWfVscXrQ30TfSRMd9r448Y=
+
+Name: assets/bubble3.png
+SHA1-Digest: UmFfDtQyhqMua7lTpB7pSVHstl0=
+
+Name: assets/dntg2/images/players/turret4.png
+SHA1-Digest: YkrbI8yLtR9y5NRkMCkdLSLjXbo=
+
+Name: assets/logo.png
+SHA1-Digest: sY+z3TBQ5p3zaNWvymVd46z0pi8=
+
+Name: assets/btn_delete.png
+SHA1-Digest: 8D3Yzkelk7avCXLTgUMqwbN20mc=
+
+Name: assets/login_bg.jpg
+SHA1-Digest: XJMN5PFj10YjB9Y5v+C0MRMrKOI=
+
+Name: assets/dntg2/images/fish/fish_xiaoyinlong_walking.png
+SHA1-Digest: g8dGnrdYjyRbvzsup4KPDGLE84k=
+
+Name: assets/registerWidget.json
+SHA1-Digest: 3MvcKuLqdHutZsY48zmHsbqCdY0=
+
+Name: assets/icon_bank.png
+SHA1-Digest: snWnz6bF3vXz1fVUJRJU/wgo1nc=
+
+Name: assets/task_tiltle1.png
+SHA1-Digest: /Uer2y6j2gHsJQjLB2UH5lu+XSU=
+
+Name: assets/particles/zhendong_ci.plist
+SHA1-Digest: uwPtgUIVyRFco6q+rhwv1+SEntQ=
+
+Name: assets/btn_more_on.png
+SHA1-Digest: ohyZWE8KCai9jsUX7B30pusMVVs=
+
+Name: assets/icon_shop.png
+SHA1-Digest: AknBftWdyoF00CrVA4hpD0ibPaY=
+
+Name: assets/dntg2/images/bullet/bullet4_norm6.png
+SHA1-Digest: ZpJxFz8ZmSC85Bn0tmMGdSjaevA=
+
+Name: assets/dntg2/images/fish/fish_shenxianchuan_walking.png
+SHA1-Digest: 94YQfM0dTD6SFgMkAIldU9LtVcI=
+
+Name: assets/map/Wave_000_006.png
+SHA1-Digest: rfuHPHdXLDYhOK6gMS3b2cCb2ZU=
+
+Name: assets/assing_mirrow.png
+SHA1-Digest: sLgg+ksRXaiTK0mAFr8twNbMSXQ=
+
+Name: assets/Splash/AnimationCompanyLogo.ExportJson
+SHA1-Digest: 5bmQA9nxvAxWdO6/ANqJvIW6gyw=
+
+Name: assets/qipao3.png
+SHA1-Digest: i/jSjXMQ0Bo4Kd27Q6FzF86xhOI=
+
+Name: assets/guide_lk.plist
+SHA1-Digest: ned0lIMLgMnhIRuM7CKVYnTmEyY=
+
+Name: assets/vip_grade_on.png
+SHA1-Digest: WWhlR7gx0TDoukolgZ1FzHR0dZc=
+
+Name: assets/match/u_bounced_bg.png
+SHA1-Digest: taFzW2g/Srq3kOZookgKJzSyaV0=
+
+Name: assets/map/Wave_000_025.png
+SHA1-Digest: m+8hjmD7OlUPhR53+amFZLJDGOU=
+
+Name: assets/shayu0.png
+SHA1-Digest: MJ2vBIIm1F4U6ez9/W8lWC58aQM=
+
+Name: assets/common/commonloading/loading_logo_4.png
+SHA1-Digest: 1Kq6fhjHjWxBovh/NkjSU1g5ToQ=
+
+Name: assets/audios/yuhuangdadi.mp3
+SHA1-Digest: ly2CzzNXzpu24zXQqQEmLOsUd30=
+
+Name: assets/common/players/gun_fire.png
+SHA1-Digest: GeXlOOMJoUmQnVTPto5tpsp5z7U=
+
+Name: assets/matchResultWidget.json
+SHA1-Digest: Awb+r69hT15E2kDzbyGwWYD/GYY=
+
+Name: assets/particles/zhendong_ciquan.png
+SHA1-Digest: gfEGIEsn9gRIZsepTxXhhh0g04g=
+
+Name: assets/guideWidget.json
+SHA1-Digest: 3+81BBWd8BgfZljgQIwdEgNqtXk=
+
+Name: assets/map/Wave_000_027.png
+SHA1-Digest: MCciv9syXpAEILkuRXE+tqLiLgU=
+
+Name: assets/dntg2/images/players/turret2.png
+SHA1-Digest: +F6NpMZGmc3G34ErsHeyV+w7X74=
+
+Name: assets/dntg2/images/fish/fish_meirenyu_walking.png
+SHA1-Digest: mWZ5tcEKCm/w1P7ALVbyONuS968=
+
+Name: assets/charge_qipao3.png
+SHA1-Digest: 5jTV1VJpHreJUgp/p2QTHgo1yY4=
+
+Name: assets/match/u_icon_lottery.png
+SHA1-Digest: oTx4VHxY4t1NTkjw7FvzZfbXulc=
+
+Name: assets/particles/ciquan.plist
+SHA1-Digest: F4bVQ6oAMp7x7HqMRJkzqt8KKRI=
+
+Name: assets/match/u_icon_line.png
+SHA1-Digest: 2DUubMkCdywte6hC6tQS8h6afMo=
+
+Name: assets/audios/highscore02.mp3
+SHA1-Digest: fJVufIDVY9JHl9FJArgAs5gxE9A=
+
+Name: assets/AnimationTip.ExportJson
+SHA1-Digest: sJgiEwQAx88dOLnsRCGwICsy1iI=
+
+Name: assets/assing_path_bg.png
+SHA1-Digest: 4XOW8wQpmtbcsxITQWPbH7H6bls=
+
+Name: assets/btn_sub.png
+SHA1-Digest: NtheXRriO/Z5UD8+fhX2tCq2EfQ=
+
+Name: assets/audios/sound_LZP_fire.mp3
+SHA1-Digest: MNfDgSXq24+SXkD3+4VWsAiad0Y=
+
+Name: assets/common/commonloading/loading_logo_8.png
+SHA1-Digest: OhDy48Ng3u92oVBS/ZvwsUS+Mts=
+
+Name: assets/dntg2/images/fish/fish_woniuyu_dying.png
+SHA1-Digest: 2ZYmEH/szmQ5htZadhR0ZMOg710=
+
+Name: assets/bullet_lkpy.plist
+SHA1-Digest: i/9hUasbIBHwCww0TU78eV0Q3ng=
+
+Name: assets/gao_ji_an.png
+SHA1-Digest: xSX/S7UlBSXNBcP7hdg9P0F24t4=
+
+Name: assets/map/Wave_000_007.png
+SHA1-Digest: 9tpvJG2GVTVyh3eNu3pxhlMHdaE=
+
+Name: assets/dntg2/images/static/out_ywdd.png
+SHA1-Digest: 5Rtc7gVx/aRYWEPWarijc6Jb7lY=
+
+Name: assets/dntg2/images/players/turret3.png
+SHA1-Digest: YkrbI8yLtR9y5NRkMCkdLSLjXbo=
+
+Name: assets/dntg2/images/bullet/double_explode.png
+SHA1-Digest: EMY1k5IBLX7GVpTEiP+h7wJtBQY=
+
+Name: assets/match/btn_signUp_an.png
+SHA1-Digest: grmPtufxi153uhbdnuOawFtXv38=
+
+Name: assets/GUI/image.png
+SHA1-Digest: Rtq7KmyK2/H7o4JmEPFpaIqJhgM=
+
+Name: assets/map/Wave_000_023.png
+SHA1-Digest: S5oSyYNn67VLHmOO+z8UKbTMVC0=
+
+Name: assets/animation_jc.plist
+SHA1-Digest: JH+Ed+0+JLy5s9PVvZ80NdoqcYc=
+
+Name: assets/font_ingot.png
+SHA1-Digest: Kl9ekmGqFl1Fz+NE94JgRrUPIyM=
+
+Name: assets/animation_dead_lk.plist
+SHA1-Digest: jVb1gETFm2txm5aYbKfK9FGaFGs=
+
+Name: assets/dntg2/images/fish/fish_xiaochouyu_walking.png
+SHA1-Digest: r+E0fhHvmudo9Qip0jQZndgp4GY=
+
+Name: assets/dntg2/images/bullet/bullet2_norm4.png
+SHA1-Digest: v2ZWzUXV6U6NtwKNp1EQKoKccZU=
+
+Name: assets/image_charge_1.png
+SHA1-Digest: UkAX3d+uTsyfI4XQ7MlDTfV7E8U=
+
+Name: assets/map/Wave_000_029.png
+SHA1-Digest: dCuRK7N4x8k0B/PT/1pKFykaBcI=
+
+Name: assets/match/u_icon_Clock.png
+SHA1-Digest: BeuAWcFTnJhSePoq76kCFPS0Umk=
+
+Name: assets/paimaiWidget.json
+SHA1-Digest: BKzRagJmjw5XazuuBLC0qQC3ZQ8=
+
+Name: assets/match/image_dot.png
+SHA1-Digest: 3LBRgr7ic5lgp8nIi9Lf2auTe1k=
+
+Name: assets/dntg2/images/fish/qjfquan.png
+SHA1-Digest: pcXm6VqY4KrCFySwAPa0wHIOsmk=
+
+Name: assets/fish2_6.png
+SHA1-Digest: d8XD7wWGCmM2fEE+PhJjZ4QXzxE=
+
+Name: assets/particles/yuanbao_baodian.plist
+SHA1-Digest: SmLz0cc75zhtOEZ///JQwPlK494=
+
+Name: assets/btn_msg_on.png
+SHA1-Digest: 4wddQUtjmeLbg0sDSVJiWys8N9M=
+
+Name: assets/match/u_bg_bg1.png
+SHA1-Digest: qL82cgRdDu9INGIQ6W36+DBOqug=
+
+Name: assets/common/loading_circle_forground.png
+SHA1-Digest: nApNeCUeWsBbkA/FgyGnsezRoVU=
+
+Name: assets/ice.png
+SHA1-Digest: mXTlWGkR2ZBwZ+KUW76qNZwjrn8=
+
+Name: assets/bullet_lkpy.png
+SHA1-Digest: dpm0G3GdlrkyNuaJj1e5C3bq28w=
+
+Name: res/drawable-hdpi/msp_icon.png
+SHA1-Digest: sQOiUUBsMk4ynqL9mm8ohN17Brg=
+
+Name: assets/image_hall_vip1.png
+SHA1-Digest: 993soZV36cHtok1+C8B+kg0neGQ=
+
+Name: assets/loading/progress_cur.png
+SHA1-Digest: sNVA6uTk0R+x7TMoC3+h5nOAi5I=
+
+Name: assets/btn_setting_on.png
+SHA1-Digest: 6zVc+w94gMWFhVQP2n9C3SJFqww=
+
+Name: assets/fish2_3.png
+SHA1-Digest: /O6nwf+33kxulj4S+WQJfqK/0uU=
+
+Name: assets/Splash/AnimationTitleLogon.ExportJson
+SHA1-Digest: vCW1t2+59mJL3bpuSgcPKFiHQBQ=
+
+Name: assets/matchTimeResultWidget.json
+SHA1-Digest: NIzO5dqYRXQbMh3DOWpZKHlQEj0=
+
+Name: assets/dntg2/images/bullet/bullet4_norm1.png
+SHA1-Digest: G2hTr8J2NJOs3zkY2MnzOnzVDX0=
+
+Name: assets/particles/baozha.plist
+SHA1-Digest: 84afqOCGWHrQLgizRXqSlPFTElI=
+
+Name: assets/dntg2/images/players/money_back1.png
+SHA1-Digest: Rtcoi5niev4qLCqyn25oASpgvFA=
+
+Name: assets/match/u_bg_bg.png
+SHA1-Digest: T2TiXdfI2xBG/hvJWKdE0e9kDsA=
+
+Name: assets/match/u_icon_fish.png
+SHA1-Digest: Cc6u0/9/e9nLeYfycPpybU1abBc=
+
+Name: assets/match/u_icon_trytitle.png
+SHA1-Digest: fYwWwG3GZ6R3WUKWfFVcNQBerHE=
+
+Name: resources.arsc
+SHA1-Digest: i8UTvL3Tz0LoRLrcMSlGvn/BMeQ=
+
+Name: assets/dntg2/images/fish/yjsdquan.png
+SHA1-Digest: xU4UdIziqgnydwMvztqnP0jtlnY=
+
+Name: assets/tip_tilteBg.png
+SHA1-Digest: IenVABBs9AHXvWMWFcR38e+GaZ4=
+
+Name: assets/fish2_1.png
+SHA1-Digest: pyTb1gogvV1M0+W4eU1Qrlq4ARc=
+
+Name: assets/match/match_plus.png
+SHA1-Digest: mXH8GsD9H3ytY7rcc3joDSlOvXM=
+
+Name: assets/map/Wave_000_031.png
+SHA1-Digest: 8HrLrYX2YwZyHdRNKABOfWVFzjc=
+
+Name: assets/dntg2/images/fish/fish_jianyu_dying.png
+SHA1-Digest: sBTqMP1ZZyEqQ4EY/7VHqmjs5fY=
+
+Name: assets/map/Wave_000_028.png
+SHA1-Digest: Vu36Js8niPUFRssf3Ka24/1dd7Y=
+
+Name: assets/dntg2/images/bullet/bullet3_norm1.png
+SHA1-Digest: T4vVIcXnrvGNEpf84DFyL4yK9oA=
+
+Name: assets/fish1_6.png
+SHA1-Digest: zk3We2573jTj25Qrb1UVdG+LVzk=
+
+Name: res/drawable-xxhdpi/icon.png
+SHA1-Digest: jPHp+4fdqPGAcx8JggJapJ7WOPE=
+
+Name: assets/dntg2/images/players/gun02_me_normal.png
+SHA1-Digest: ENmYU5AaTpGkkUd+p8uTcSlxLrc=
+
+Name: assets/icon_assign.png
+SHA1-Digest: jAHW8JLYRtb4YcF44u8mLtFcmIU=
+
+Name: assets/button_bg_yellow.png
+SHA1-Digest: OFOoUr4otdFVDT4Uspn6GLSzxrY=
+
+Name: assets/gamefish.png
+SHA1-Digest: i+XGWUvCdMePfn4O+25/w7biqOA=
+
+Name: assets/bullet_jcby.plist
+SHA1-Digest: iPIHvUQ1m9wLVjxPqP8VM57kZBU=
+
+Name: assets/particles/zhendong_ciquan2.png
+SHA1-Digest: gfEGIEsn9gRIZsepTxXhhh0g04g=
+
+Name: assets/bubble2.png
+SHA1-Digest: 9NFXmhDs5xJ+z4ezsA5vQeW+2n8=
+
+Name: assets/map/Wave_000_008.png
+SHA1-Digest: k6I8nLxZSZFwxVvRfCzaLgL3Qe0=
+
+Name: assets/dntg2/images/fish/fish_jinchan_walking.png
+SHA1-Digest: V/NdDlUTlK8JYxzWc/ZBM8h6deg=
+
+Name: assets/MessageTipBack.png
+SHA1-Digest: Fuaij7uuKEuDsWBcBz1luAJyj0M=
+
+Name: assets/dntg2/images/fish/fish_denglongyu_walking.png
+SHA1-Digest: MG/8g6ln0GANiwnjgdNzfmnG64Q=
+
+Name: assets/loading/progress_cur_jc.png
+SHA1-Digest: N+3/laSHWaR64Mu+n7HjYl3L08E=
+
+Name: assets/btn_fishmatch.png
+SHA1-Digest: qcZgz9ZhsMKVlxfPwnrNLb/yz8s=
+
+Name: assets/nullbg.png
+SHA1-Digest: c8XcqVj8GPCCVxJwcVZb0V3YNSY=
+
+Name: assets/match/image_match_end.png
+SHA1-Digest: Onn7fIK4AgogzoocoZWPsqQAsP0=
+
+Name: assets/charge_qipao2.png
+SHA1-Digest: cCL5J3AbXH5bXEdAwZa/eiPBhvY=
+
+Name: assets/dntg2/images/fish/fish_bawangjing_dying.png
+SHA1-Digest: sLZaxxXyLIh8JvbXfuPa3pJYgCc=
+
+Name: assets/match/btn_free.png
+SHA1-Digest: qqiNucfL0KJ6u93/BWScNmoJztU=
+
+Name: assets/match/u_icon_gold.png
+SHA1-Digest: t8XjKIzcHVZmGmlC6ja1BpujqIk=
+
+Name: assets/assign_qipao3.png
+SHA1-Digest: jS4kNW4LUPnrQqNrK7XsTjdiVgw=
+
+Name: assets/dntg2/images/bullet/bullet4_norm3.png
+SHA1-Digest: pZkllSQ1j1kq/OTElgeTMUuOFY4=
+
+Name: assets/match/u_hall_light1.png
+SHA1-Digest: EXTyDbHmRD8SMNlQYKORFwnL95w=
+
+Name: assets/back.png
+SHA1-Digest: YAphEQAwkSpqzBolNvdypr6lPUI=
+
+Name: assets/dntg2/images/players/gun02_double.png
+SHA1-Digest: RUiQS33kC8q6KnBbyJY0ZIBtFkk=
+
+Name: assets/water2.png
+SHA1-Digest: +szGIH2mNDe+KNsQcxSs5Q10wNw=
+
+Name: assets/btn_sub_on.png
+SHA1-Digest: 68UdC/XEu6L4jctBaV0wg7HmZp4=
+
+Name: assets/common/players/jetton_bgc1.png
+SHA1-Digest: amqa7baoTeObCCaG4MReCL5aaPA=
+
+Name: assets/award_effect_1.png
+SHA1-Digest: lP9jsH5wCc4Iwefwgn3bd9/u2yk=
+
+Name: assets/number_vip.png
+SHA1-Digest: UUOV209NlqFBOuH/q4hszjb59BA=
+
+Name: assets/audios/highscore05.mp3
+SHA1-Digest: GL2LQqC5SVEQ4vzXmvtw06uCn1M=
+
+Name: res/drawable-hdpi/msp_demo_title.png
+SHA1-Digest: EkXnvtRXymamJu9F5pno05XXWmI=
+
+Name: assets/dntg2/images/fish/fish_woniuyu_walking.png
+SHA1-Digest: tNIsU284dpMp2G3MndxOwkG+C04=
+
+Name: assets/Splash/AnimationCompanyLogo.plist
+SHA1-Digest: p+MukdRWK9LEuDK2RSaX084EU0A=
+
+Name: assets/lb.png
+SHA1-Digest: 1bJCIAlupDmvvgv3WTEnBI76U4s=
+
+Name: assets/head/head11.png
+SHA1-Digest: u+cIahftaprh/fzbaeJZRwB7ruU=
+
+Name: assets/match/u_btn_enrolling_click.png
+SHA1-Digest: pjL+qlM5Ol+r+OqfSDH0pq78nFs=
+
+Name: assets/loading/background_jc.jpg
+SHA1-Digest: CPwkqGAYftUo63Rh1n4bA3yRZAQ=
+
+Name: assets/dntg2/images/bullet/bullet3_norm5.png
+SHA1-Digest: g+dFHOkUtuHKQj0pmdgKMHUWz8Q=
+
+Name: assets/particles/yuanbao_guangqiu.plist
+SHA1-Digest: rQz3A4umMNHyLfAmqP6cSmBVtjg=
+
+Name: assets/match/u_hall_bg_line2.png
+SHA1-Digest: P+qg8jOQM6regK6Wqye05PkuPos=
+
+Name: assets/fish3_5.png
+SHA1-Digest: hXGGDIsaiPwBJt4UjsAEiW3H/ig=
+
+Name: assets/qipao2.png
+SHA1-Digest: hKaQrKqG2z/brJpHs4LdSL8QAds=
+
+Name: assets/dntg2/images/fish/fish_denglongyu_dying.png
+SHA1-Digest: GztTroikE3Y4ZSuMMoQDndY+NNE=
+
+Name: assets/tip_tilte.png
+SHA1-Digest: +KH3CD49W1AyawgL06iu4N9ZGp4=
+
+Name: assets/sign_gou.png
+SHA1-Digest: sIZ/b4jJk87Dfhz8V09GXw7TtLY=
+
+Name: assets/map/Wave_000_018.png
+SHA1-Digest: 2zu7cjJX9Z5FDYSMGM/CBgOnWkc=
+
+Name: assets/particles/ciquan2.plist
+SHA1-Digest: 7lP+cQuPhi9cVzeAYsYCD1GgTLg=
+
+Name: assets/dntg2/images/fish/fish_dayanyu_walking.png
+SHA1-Digest: VJdvVvuciECxbibXPG2LXD+Bxo0=
+
+Name: assets/particles/quan.plist
+SHA1-Digest: Fvgo9KdxzQFG2I5zqJVbvSqYS+g=
+
+Name: assets/Common_loading_icon.png
+SHA1-Digest: 0YlFJH5buzwXmQ+NeM/3PLwPaew=
+
+Name: assets/zhong_ji_an.png
+SHA1-Digest: qOp3kOjub7cMZQSIoxHSy7P2Y7I=
+
+Name: assets/menu2.png
+SHA1-Digest: E9WXEV0OesJvGAeL9o230gK0laA=
+
+Name: assets/dntg2/images/fish/BlueLight.png
+SHA1-Digest: rphPb76fggzemxc3F4DRA7IbHC8=
+
+Name: assets/gaoji.png
+SHA1-Digest: aYm17vvX9nDH2OVKGHLUwm+MtD0=
+
+Name: assets/match/u_bg_light.png
+SHA1-Digest: CFpAUZm1W82tElRFJ9RKjZpPDo4=
+
+Name: assets/menu.png
+SHA1-Digest: MGkCq64X3ozzloHG2vAPZB1AQ14=
+
+Name: assets/loading/background_lk.jpg
+SHA1-Digest: 6YgVXdN5lQOk0tK6F1sVnVFNKQ4=
+
+Name: assets/default.png
+SHA1-Digest: xClG8chqgGFK7A3K9gPsUHpLids=
+
+Name: assets/match/btn_matchExit_on.png
+SHA1-Digest: RI+IQN/XY8LhjuPMM6wuMirYrEs=
+
+Name: assets/map/Wave_000_004.png
+SHA1-Digest: hWmLJ1WdYLAMXDPHWNAkEmhxP5E=
+
+Name: assets/firstChargeScene.json
+SHA1-Digest: nZcFHBiwOui9dFVWbCf443sFm5c=
+
+Name: assets/dntg2/images/map/map1.jpg
+SHA1-Digest: d6uAC4JP8qkuv4YM1LCgrTcZK9M=
+
+Name: assets/common/players/jetton_num.png
+SHA1-Digest: A5M9AgeUvlj5SYxOt7Y68m0+qqg=
+
+Name: assets/dntg2/images/bullet/bullet3_norm4.png
+SHA1-Digest: dHiBU2ya+O0145YlWrt+OGKVr3o=
+
+Name: assets/fish3_4.png
+SHA1-Digest: GMJD+Xmj4CEFdjUOGfwCRA0IUSk=
+
+Name: assets/dntg2/images/players/money_back0.png
+SHA1-Digest: IVNnA6cKutIhmYVLih2QpkDuGjQ=
+
+Name: assets/particles/ciquan2.png
+SHA1-Digest: gfEGIEsn9gRIZsepTxXhhh0g04g=
+
+Name: assets/font_task.png
+SHA1-Digest: Zy5QTxEl9iDLZRYWUsOP+nIp/pU=
+
+Name: assets/particles/yuanbao.plist
+SHA1-Digest: Lp04Iacrv/qG26fS54Q9XLfkxIo=
+
+Name: assets/dntg2/images/players/money_back4.png
+SHA1-Digest: /3/mX0O8xbXW4LW6NkUpQ/dWSkY=
+
+Name: assets/BackgroundGoUpParticle.png
+SHA1-Digest: 6Z/I+wqaBLHM/GpofbbKDljE6a0=
+
+Name: assets/font_paimai.png
+SHA1-Digest: 05OlmiBboPDBwR/n06nhHtIe6tA=
+
+Name: assets/chu_ji_an.png
+SHA1-Digest: vkdzp882gjb+Ny7Q1HWzymNdkVE=
+
+Name: assets/audios/sound_change_gun.mp3
+SHA1-Digest: yvyZq5Wal75L8/NkPdPprNWpMOM=
+
+Name: assets/head/head0.png
+SHA1-Digest: 7mdCflgoU2kWmLgvsI+GzVFCr7k=
+
+Name: assets/common/players/jetton.png
+SHA1-Digest: pkoFqHSw6EI+1z0JeTixO28tAz4=
+
+Name: assets/dntg2/images/fish/LightChain.png
+SHA1-Digest: tCUTTPetydxesfvUzvdggFORDQQ=
+
+Name: assets/bagWidget.json
+SHA1-Digest: tnblqyobf5wn5izT/ePB+in8mXk=
+
+Name: assets/water4.png
+SHA1-Digest: FiOZTkFUPzv47UTd69KsxOGrHB0=
+
+Name: assets/Splash/AnimationTitleLogon.plist
+SHA1-Digest: 954B3wDUTCuJ76tO35IPPDdPzQY=
+
+Name: assets/dntg2/images/fish/fish_jinchan_dying.png
+SHA1-Digest: oF2a3wXVfNfg3Tm9HXrk6D1Stqk=
+
+Name: assets/water3.png
+SHA1-Digest: g3T3o93B4rFsG4st28PLoxG/vf4=
+
+Name: assets/map/Wave_000_010.png
+SHA1-Digest: H2+++NzEMHrY9fNnNavv6h8QR74=
+
+Name: assets/dntg2/images/fish/fish_xiaoqinglong_walking.png
+SHA1-Digest: hEnkTl7KKJt6cZRFarhD9tnIJ8g=
+
+Name: assets/common/players/bingo_num.png
+SHA1-Digest: DrLAveihoRXqvUISE1DzmzyCsxU=
+
+Name: assets/particles/zhendong_xiquan.plist
+SHA1-Digest: rOrgUTueMDKQxNajd7dBMRlaT50=
+
+Name: assets/common/commonloading/loading_logo_5.png
+SHA1-Digest: WJ/AWWi0DYiY5YEdr5xbyo2+IDA=
+
+Name: assets/common/players/Cursor.png
+SHA1-Digest: uAlDn//GP9GR119cnFGtqmTrEPc=
+
+Name: assets/charge_qipao1.png
+SHA1-Digest: r2lSFYT6jiD8B71ztfuAXbOz7k4=
+
+Name: assets/image_hall_vip2.png
+SHA1-Digest: bU91xIfb1/jvhjPcaZqg9Yf+MEU=
+
+Name: assets/dntg2/images/players/gun03_me_normal.png
+SHA1-Digest: zU02I4IMych2EwDIMUaeHBfqnAs=
+
+Name: assets/image_hall_vip5.png
+SHA1-Digest: jpWhXrZjGEgB1Lk2zlzgYRVT6U0=
+
+Name: assets/bagBg.png
+SHA1-Digest: HDzKgiQfuuIOtQyyrA5l66GCLMA=
+
+Name: assets/dntg2/images/fish/fish_jinsha_walking.png
+SHA1-Digest: TJmtlSYv0N1VjCVEnjbQ4AoMWNw=
+
+Name: assets/menu_on.png
+SHA1-Digest: EQ8mE5/GFArFv2wwuDQIUlglC0Y=
+
+Name: assets/icon_qq.png
+SHA1-Digest: V4juU9gbYNfr0ZF+/9qTrWXJLKg=
+
+Name: assets/map/Wave_000_009.png
+SHA1-Digest: tAukLJqcnkEWnDDnUNGUoU0Eyxk=
+
+Name: lib/armeabi/libcocos2dcpp.so
+SHA1-Digest: P469fnAIQQnPu2YYZkWmB2aDIEE=
+
+Name: assets/u_icon_friends.png
+SHA1-Digest: XyQwa46uhuwlZEwz7Rq5atn0vj4=
+
+Name: assets/award_number.png
+SHA1-Digest: gELn1L3lTVUHPSTqVMS1VWhnM08=
+
+Name: assets/btn_setting.png
+SHA1-Digest: FmCoNN1r3Qrx5kySl/uLoo6mJpc=
+
+Name: assets/dntg2/images/static/out_yl.png
+SHA1-Digest: /63gkBU/c1sc2fSL8dJb3uR2IbQ=
+
+Name: assets/image_hall_vip4.png
+SHA1-Digest: 8aGQkox5HlWpxvGV6ODOC3chEP0=
+
+Name: assets/dntg2/images/fish/fish_xiaoqinglong_dying.png
+SHA1-Digest: 68RYnyZk4l9Z/E6h2M5t5/IeT3w=
+
+Name: assets/aboutWidget.json
+SHA1-Digest: g8gtek3ADz2cjpPfQdy1mJpfBqY=
+
+Name: assets/gamecoin.plist
+SHA1-Digest: AQBAWiRYCVa15xPrhu7dTRoOqE4=
+
+Name: assets/btn_plus_on.png
+SHA1-Digest: W6Ced/zSXL/vDQEIAw8bOLXKvws=
+

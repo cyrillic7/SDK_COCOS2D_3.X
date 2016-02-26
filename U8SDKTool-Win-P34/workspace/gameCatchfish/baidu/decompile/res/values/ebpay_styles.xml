@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+
+    <style name="EbpayActivityAnim">
+        <item name="@android:activityOpenEnterAnimation">@anim/wallet_base_slide_from_right</item>
+        <item name="@android:activityOpenExitAnimation">@anim/wallet_base_slide_to_left</item> 
+        <item name="@android:activityCloseEnterAnimation">@anim/wallet_base_slide_from_left</item>
+        <item name="@android:activityCloseExitAnimation">@anim/wallet_base_slide_to_right</item> 
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    
+    <style name="EbpayActivityAnim2">
+        <item name="@android:activityOpenEnterAnimation">@anim/wallet_base_show_dialog_anim</item>
+        <item name="@android:activityOpenExitAnimation">@anim/wallet_base_dismiss_dialog_anim</item>
+        <item name="@android:activityCloseEnterAnimation">@anim/wallet_base_show_dialog_anim</item>
+        <item name="@android:activityCloseExitAnimation">@anim/wallet_base_dismiss_dialog_anim</item>
+    </style>
+
+    <style name="EbpayThemeActivityBase" parent="@android:style/Theme.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:textColor">@color/ebpay_black</item>
+        <item name="android:windowAnimationStyle">@style/EbpayActivityAnim</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:screenOrientation">portrait</item>
+    </style>
+ 
+    <style name="EbpayThemeActivitTranslucent" parent="EbpayThemeActivityWelcome">
+        <item name="android:windowAnimationStyle">@style/EbpayActivityAnim2</item>
+    </style>
+
+    <style name="EbpayThemeActivityWelcome" parent="@android:style/Theme.Translucent.NoTitleBar">
+        <item name="android:textColor">@color/ebpay_black</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:screenOrientation">portrait</item>
+    </style>
+
+</resources>

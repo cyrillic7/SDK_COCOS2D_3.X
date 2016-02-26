@@ -1,0 +1,29 @@
+.class public abstract Lcom/baidu/bdgame/sdk/obf/cy;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+
+# direct methods
+.method public constructor <init>()V
+    .registers 1
+
+    .prologue
+    .line 9
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public abstract a()I
+.end method
+
+.method public abstract a(I)Ljava/lang/String;
+.end method
+
+.method public abstract b(I)Ljava/lang/String;
+.end method
+
+.method public abstract c(I)Z
+.end method

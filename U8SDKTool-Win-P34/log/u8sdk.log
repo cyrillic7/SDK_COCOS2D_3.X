@@ -1,0 +1,61 @@
+2016-02-25 17:44:18,226: Curr Python Version::2.7.10
+2016-02-25 17:44:20,096: current selected game is gameCatchfish(达人捕鱼)
+2016-02-25 17:44:20,645: now hava 1 channels to package...
+2016-02-25 17:44:20,647: the base apk file is : E:/U8SDK_20151124101532/U8SDKTool-Win-P34/games/gameCatchfish/u8.apk
+2016-02-25 17:44:20,648: now to package mz...
+2016-02-25 17:44:29,062: "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/tool/win/jre/bin/java" -jar -Xms512m -Xmx512m "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/tool/win/apktool2.jar" -q d -b -f "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/workspace/gameCatchfish/mz/temp.apk" -o "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/workspace/gameCatchfish/mz/decompile" !!!exec success!!! 
+2016-02-25 17:44:31,194: E:/U8SDK_20151124101532/U8SDKTool-Win-P34/tool/win/jre/bin/java -jar -Xms512m -Xmx512m "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/tool/win/lib/dx.jar" --dex --output="E:/U8SDK_20151124101532/U8SDKTool-Win-P34/workspace/gameCatchfish/mz/sdk/mz/classes.dex"  E:/U8SDK_20151124101532/U8SDKTool-Win-P34/config/sdk/mz/u8sdk_mz.jar E:/U8SDK_20151124101532/U8SDKTool-Win-P34/config/sdk/mz/libs/MzGameCenterLib_1.3.3_p.jar !!!exec success!!! 
+2016-02-25 17:44:32,073: "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/tool/win/jre/bin/java" -jar "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/tool/win/baksmali.jar" -o "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/workspace/gameCatchfish/mz/decompile/smali" "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/workspace/gameCatchfish/mz/sdk/mz/classes.dex" !!!exec success!!! 
+2016-02-25 17:44:32,078: the new package name is com.game.gameCatchFish.mz
+2016-02-25 17:44:32,082: the channel mz has no supported plugins.
+2016-02-25 17:44:32,082: The sdk manifest file is E:/U8SDK_20151124101532/U8SDKTool-Win-P34/workspace/gameCatchfish/mz/sdk/mz\SDKManifest.xml
+2016-02-25 17:44:32,088: merge manifest file success.
+2016-02-25 17:44:32,101: The node app_name is already exists in strings.xml
+2016-02-25 17:44:32,107: the copyFrom E:/U8SDK_20151124101532/U8SDKTool-Win-P34/workspace/gameCatchfish/mz/sdk/mz\root is not exists.
+2016-02-25 17:44:32,121: copy channel mz special res to apk success.
+2016-02-25 17:44:32,122: the copyFrom E:/U8SDK_20151124101532/U8SDKTool-Win-P34/games/gameCatchfish/res\libs is not exists.
+2016-02-25 17:44:32,124: the copyFrom E:/U8SDK_20151124101532/U8SDKTool-Win-P34/games/gameCatchfish/res\res is not exists.
+2016-02-25 17:44:32,128: the game gameCatchfish icon is not exists:E:/U8SDK_20151124101532/U8SDKTool-Win-P34/games/gameCatchfish/icon/icon.png
+2016-02-25 17:44:32,130: the develop info is MZ_APPID=3006798
+MZ_APPKEY=c7ab4cb112a744d5b7479a806d3d6b38
+MZ_PAYURL=http://121.40.231.233:8019/WS/QueryOrder.asmx/MeiZuPaySign
+U8_SDK_VERSION_CODE=1
+U8_Channel=181
+U8_APPID=1104911455
+U8_APPKEY=8vL7KIT7gYlambwf
+U8_AUTH_URL=http://192.168.18.9:8080/user/getToken
+
+2016-02-25 17:44:32,138: The manifestFile meta-data write successfully
+2016-02-25 17:44:32,138: now to execute post_script.py of game gameCatchfish 
+2016-02-25 17:44:32,150: now to modify game name ....
+2016-02-25 17:44:32,151: now no game name modify
+2016-02-25 17:44:32,153: generate R:the temp path is E:/U8SDK_20151124101532/U8SDKTool-Win-P34/workspace/gameCatchfish/mz/temp
+2016-02-25 17:44:32,421: "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/tool/win/aapt" p -f -m -J "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/workspace/gameCatchfish/mz/temp/gen" -S "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/workspace/gameCatchfish/mz/temp/res" -I "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/tool/win/android.jar" -M "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/workspace/gameCatchfish/mz/decompile/AndroidManifest.xml" !!!exec success!!! 
+2016-02-25 17:44:33,709: "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/tool/win/jre/bin/javac" -source 1.7 -target 1.7 -encoding UTF-8 "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/workspace/gameCatchfish/mz/temp/gen/com/game/gameCatchFish/mz/R.java" !!!exec success!!! 
+2016-02-25 17:44:34,494: E:/U8SDK_20151124101532/U8SDKTool-Win-P34/tool/win/jre/bin/java -jar -Xmx512m -Xms512m "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/tool/win/lib/dx.jar" --dex --output="E:/U8SDK_20151124101532/U8SDKTool-Win-P34/workspace/gameCatchfish/mz/temp/classes.dex" "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/workspace/gameCatchfish/mz/temp/gen" !!!exec success!!! 
+2016-02-25 17:44:35,184: "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/tool/win/jre/bin/java" -jar "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/tool/win/baksmali.jar" -o "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/workspace/gameCatchfish/mz/decompile/smali" "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/workspace/gameCatchfish/mz/temp/classes.dex" !!!exec success!!! 
+2016-02-25 17:44:58,704: E:\UE8S:\U8SDDK_2K01_2051115121424110011535322\\UU8SDK8ToSoDl-WiKn-PT3o4\owl-Woin-P34\workrspakcse\pgaacem\egCatcahfishm\mez\deCcompaitclhfies\rh\mesz\dra\wdaebcolmpe-illedp\i\rb_esweb\d_rbaawcablke-m.pndgp:i l\ibbp_wenb_bag cwak.rpnngin: lgibpn:g  iwCaCPr: Nniongt : riCecCPo:g Notn reciozignizning kg nokwnownn s RGBsR pGBrofi plrofe tihat lhase b teen hediatt ehasd b
+een edited
+E:\U8SDK_20151124101532\U8SDKTool-Win-P34\workspace\gameCatchfish\mz\decompile\res\drawable-hdpi\b_web_back.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+E:\U8SDK_20151124101532\U8SDKTool-Win-P34\workspace\gameCatchfish\mz\decompile\res\drawable-xhdpi\b_web_back.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+E:\U8SDK_20151124101532\U8SDKTool-Win-P34\workspace\gameCatchfish\mz\decompile\res\drawable-xxhdpi\b_web_back.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+E:\U8SDK_20151124101532\U8SDKTool-Win-P34\workspace\gameCatchfish\mz\decompile\res\drawable-xxxhdpi\b_web_back.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+E:\U8SDK_20151124101532\U8SDKTool-Win-P34\workspace\gameCatchfish\mz\decompile\res\drawable-ldpi\icon.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+E:\U8SDK_20151124101532\U8SDKTool-Win-P34\workspace\gameCatchfish\mz\decompile\res\drawable-mdpi\icon.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+E:\U8SDK_20151124101532\U8SDKTool-Win-P34\workspace\gameCatchfish\mz\decompile\res\drawable-hdpi\icon.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+E:\U8SDK_20151124101532\U8SDKTool-Win-P34\workspace\gameCatchfish\mz\decompile\res\drawable-xhdpi\icon.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+E:\U8SDK_20151124101532\U8SDKTool-Win-P34\workspace\gameCatchfish\mz\decompile\res\drawable-xxhdpi\icon.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+E:\U8SDK_20151124101532\U8SDKTool-Win-P34\workspace\gameCatchfish\mz\decompile\res\drawable-xxxhdpi\icon.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+
+2016-02-25 17:44:58,719: "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/tool/win/jre/bin/java" -jar -Xms512m -Xmx512m "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/tool/win/apktool2.jar" -q b -f "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/workspace/gameCatchfish/mz/decompile" -o "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/workspace/gameCatchfish/mz/output.apk" !!!exec success!!! 
+2016-02-25 17:44:58,903:  'gametest.txt'...
+
+2016-02-25 17:44:58,904: Unable to add 'gametest.txt' to 'E:/U8SDK_20151124101532/U8SDKTool-Win-P34/workspace/gameCatchfish/mz/output.apk': already exists in archive
+
+2016-02-25 17:44:58,907: "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/tool/win/aapt" add "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/workspace/gameCatchfish/mz/output.apk" gametest.txt subroot/gametest.txt !!!exec success!!! 
+2016-02-25 17:44:58,911: the keystore file is games/gameCatchfish/keystore/xwkey
+2016-02-25 17:45:17,582: "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/tool/win/jre/bin/jarsigner" -digestalg SHA1 -sigalg SHA1withRSA -keystore "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/games/gameCatchfish/keystore/xwkey" -storepass "Hzxiangwan#$999" -keypass "Hzxiangwan#$999" "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/workspace/gameCatchfish/mz/output.apk" "xiangw"  !!!exec success!!! 
+2016-02-25 17:45:17,973: "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/tool/win/zipalign" -f 4 "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/workspace/gameCatchfish/mz/output.apk" "E:/U8SDK_20151124101532/U8SDKTool-Win-P34/output/gameCatchfish/mz/mz-2016022517.apk" !!!exec success!!! 
+2016-02-25 17:45:17,976: channel mz package success.
+2016-02-25 17:45:17,979: << success num:1; failed num:0 >>
+2016-02-25 17:45:17,980: << all nice done >>

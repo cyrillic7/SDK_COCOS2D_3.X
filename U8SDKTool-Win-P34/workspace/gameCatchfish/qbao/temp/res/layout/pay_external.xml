@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip">
+            <TextView android:textColor="#ff777777" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="商品名称:" />
+            <TextView android:textColor="#ff333333" android:gravity="right" android:id="@id/product_subject" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="测试的商品" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip">
+            <TextView android:textColor="#ff777777" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="商品描述:" />
+            <TextView android:textColor="#ff333333" android:gravity="right" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="该测试商品的详细描述" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip">
+            <TextView android:textColor="#ff777777" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="商品价格:" />
+            <TextView android:textColor="#ffff6600" android:gravity="right" android:id="@id/product_price" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="0.01元" />
+        </LinearLayout>
+        <Button android:id="@id/pay" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:text="支付" android:onClick="pay" />
+        <Button android:id="@id/check" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:text="检查账户" android:onClick="check" />
+    </LinearLayout>
+</ScrollView>

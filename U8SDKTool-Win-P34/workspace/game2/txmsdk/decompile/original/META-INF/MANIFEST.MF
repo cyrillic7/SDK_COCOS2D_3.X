@@ -1,0 +1,277 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_25 (Oracle Corporation)
+
+Name: res/layout/ssl_certificate_warning.xml
+SHA1-Digest: FBO/D3juw+KGsXikJMcE6KPy4GQ=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: AfPh3OJoypH966MludSW6f1RHg4=
+
+Name: assets/META-INF/AIR/application.xml
+SHA1-Digest: GSNTCD0Spx8mbQoo9rJ1DEmkf1o=
+
+Name: lib/armeabi-v7a/libtpnsWatchdog.so
+SHA1-Digest: s9C77ZVlc4YIjNmr+e1crsRFitY=
+
+Name: assets/plugin_config.xml
+SHA1-Digest: OKOAyHWeOpvy6ELVEWVQTQTn8/Y=
+
+Name: assets/buttonNegt.png
+SHA1-Digest: M/KJLlnIIzm0mx/H8xU6UaR6OUo=
+
+Name: assets/META-INF/AIR/extensions/com.u8.sdk.flash.extension/META-I
+ NF/ANE/Android-ARM/android-support-v4.jar
+SHA1-Digest: WJawpON3rEJC6yvHhSIMHE/AUvQ=
+
+Name: lib/armeabi-v7a/libstagefright_honeycomb.so
+SHA1-Digest: qPns6HP60VRhSzOQHoV2FXg2q/A=
+
+Name: assets/button_red.9.png
+SHA1-Digest: z8N2pqVNkCyZz5wtpznaYVj1Als=
+
+Name: assets/libwbsafeedit
+SHA1-Digest: /WPw1+DlgBrRMrerHyu+xogtvIQ=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: AsBfFzK4g4LCJyPg3bFpfp7DEbc=
+
+Name: lib/armeabi/libysshared.so
+SHA1-Digest: TB891nh0tUUz+nsrHzpoSik8nMA=
+
+Name: assets/msdkinfo.ini
+SHA1-Digest: zw3PoR97XO6UWUhVmPsaTvdy/A4=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: wchnmiv9X5BAskuvQaElG83lVZ8=
+
+Name: lib/armeabi-v7a/libCore.so
+SHA1-Digest: 5HZaN11h6B8/ZcjTnz+cR3NSmKo=
+
+Name: res/layout/expandable_multiple_chooser_row.xml
+SHA1-Digest: LRPZQQZmRruYruLcftmz6t18g0U=
+
+Name: assets/com.tencent.plus.ic_success.png
+SHA1-Digest: nfo99+6yphuEgBIZu6+cg0j1+3k=
+
+Name: res/drawable-xxxhdpi/icon.png
+SHA1-Digest: GXhYNMODPZZ4akm31e+XE5HIrJU=
+
+Name: assets/com.tencent.plus.gray_disable.png
+SHA1-Digest: 0fMmhHNVjPOxFO8244xzl2vO0Jw=
+
+Name: assets/META-INF/AIR/extensions/com.u8.sdk.flash.extension/librar
+ y.swf
+SHA1-Digest: cFOxEktdzyOkRunVpjI6B5QTdak=
+
+Name: res/drawable/u8_button_wx.png
+SHA1-Digest: ilXAPHpiU+xB9tcXlFMoPItNpBs=
+
+Name: assets/com.tencent.plus.blue_down.png
+SHA1-Digest: P5pLNnim3nMuEA2ZM1/RdQsqIUY=
+
+Name: res/raw/icon.jpg
+SHA1-Digest: KF91dwuidjMwzMNX3q262A1I1QA=
+
+Name: assets/yyb_icon_back.png
+SHA1-Digest: rz2iRJOIylJ3El/3FMNYEbzutiY=
+
+Name: assets/META-INF/AIR/extensions/com.u8.sdk.flash.extension/META-I
+ NF/ANE/extension.xml
+SHA1-Digest: y78W1CQMdLoy1kL6LBexTGO9YxI=
+
+Name: lib/armeabi-v7a/libtpnsSecurity.so
+SHA1-Digest: NjYv3TPd8MlXL9Sb5/B1af52olw=
+
+Name: assets/adobeair.vch
+SHA1-Digest: wfTeLiHkSAJeJPnvynvGxDjRk68=
+
+Name: assets/yyb_appdetail_bg_floatingwindow.9.png
+SHA1-Digest: iOF6vy6Ma8SqrJZVpH/hMwRSMP0=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: GVIfdEOBv4gEny2T1jDhGGsZOBo=
+
+Name: gametest.txt
+SHA1-Digest: tnlLIADZTTSCA9AnnC5zIrkiyxY=
+
+Name: res/layout/main.xml
+SHA1-Digest: 40DsGoIbNOl8lVPgUmQeksAolKk=
+
+Name: lib/armeabi/libBugly.so
+SHA1-Digest: 7inWKXTG2V1pgmLqjOUo4TF7nFk=
+
+Name: assets/META-INF/AIR/extensions/com.u8.sdk.flash.extension/catalo
+ g.xml
+SHA1-Digest: gdk8wbsV+rmtFUf+9s2cZfXU74E=
+
+Name: assets/yyb_qzone.png
+SHA1-Digest: 9YwbRhD/FPWk5WZtaWPDQCeM2aE=
+
+Name: lib/armeabi/libstagefright_honeycomb.so
+SHA1-Digest: qPns6HP60VRhSzOQHoV2FXg2q/A=
+
+Name: lib/armeabi-v7a/libstlport_shared.so
+SHA1-Digest: Hn8JAWcqVq0cTbkvFmVt2JLFmlw=
+
+Name: res/drawable-xhdpi/ouya_icon.png
+SHA1-Digest: Vj/qhxk8ic8FE0/kT6E3vgRJ4mE=
+
+Name: lib/armeabi/libtpnsWatchdog.so
+SHA1-Digest: ynEKkl/+3+U+03Hq+NIcoT10KCw=
+
+Name: res/drawable/u8_button_qq.png
+SHA1-Digest: EecfVRomgNYWNE/0eiD5qPggBig=
+
+Name: assets/msdkconfig.ini
+SHA1-Digest: ZFVreJWxZLlCkN+3RFHfoZNQrnY=
+
+Name: lib/armeabi-v7a/libysshared.so
+SHA1-Digest: TB891nh0tUUz+nsrHzpoSik8nMA=
+
+Name: res/raw/startga.html
+SHA1-Digest: 0Gq1U1c1hFbPzb+UHZ8RaIpUnts=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: Nq8q3HeTluE5JNCBpVvNy3BXtJI=
+
+Name: assets/TencentUnipay.apk
+SHA1-Digest: fLtYfUZiuqptRp1WSaAPP/rmNec=
+
+Name: subroot/gametest.txt
+SHA1-Digest: uHkEeSP1fpmPHEfMKMn4kLtZvrs=
+
+Name: resources.arsc
+SHA1-Digest: 0zOf9mGnRYmfGmhr70Spt9MWTgA=
+
+Name: assets/yyb_topbar.9.png
+SHA1-Digest: LLKtjzYthbE3BkyGk+0D+lEJsaQ=
+
+Name: lib/armeabi/libstlport_shared.so
+SHA1-Digest: Hn8JAWcqVq0cTbkvFmVt2JLFmlw=
+
+Name: lib/armeabi/libstagefright_froyo.so
+SHA1-Digest: EUXLvjWSqWdOtEeNogZ6B3XXEO0=
+
+Name: assets/yyb_appdetail_showmore.png
+SHA1-Digest: XZfoqTP4iYo9uLRrqWXGpj/YMUs=
+
+Name: assets/U8SDKFlashDemo.swf
+SHA1-Digest: 5uwmy6DOvIn7ODSAW+1WpJbsXOA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 8AbC7hahGask5rpWm+X2xLPy9Zo=
+
+Name: assets/yyb_qq.png
+SHA1-Digest: /3M2VIdrF67YcAmVCOgoG38FyCU=
+
+Name: assets/com.tencent.plus.bar.png
+SHA1-Digest: Uqc6Y8bgiyAUESBhMAg2jzRRLpk=
+
+Name: res/drawable/coin_icon.png
+SHA1-Digest: 8UTX6cf21JbjtpuhBPHwpd2i4Uc=
+
+Name: res/drawable-xxhdpi/icon.png
+SHA1-Digest: A/l2k0LC03idnulU61/ok3b4cfQ=
+
+Name: assets/yyb_weixin.png
+SHA1-Digest: JE2FXpgR+H3RdypnuvvwC7wPVVg=
+
+Name: assets/game-assets.txt
+SHA1-Digest: Yhb4p1/Vuz1fIrb5lYze3j/AhsI=
+
+Name: assets/com.tencent.plus.gray_normal.png
+SHA1-Digest: P6NA2qEQVIJ4nGyUaUEQaY6LYrQ=
+
+Name: res/layout/multiple_file_selection_panel.xml
+SHA1-Digest: n/Oza79rSnxId7ac+TcnpRrCi6E=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: +wr9FNVLzd5txf1Q3/cbkA1Qzck=
+
+Name: lib/armeabi/libtpnsSecurity.so
+SHA1-Digest: 4yAJakNVLF5aBWjZukGWMam4nGI=
+
+Name: assets/com.tencent.open.config.json
+SHA1-Digest: TCAijjFuxJdEM20Vc3Fnk4fUJoQ=
+
+Name: assets/META-INF/AIR/extensions/com.u8.sdk.flash.extension/META-I
+ NF/ANE/Android-ARM/platform.xml
+SHA1-Digest: PKpCR+vKB3c/KfCmrn7f918uTVw=
+
+Name: res/raw/adobelogo.gif
+SHA1-Digest: cp6EzjLDVdzLOD69uttcA3OnzH8=
+
+Name: assets/com.tencent.plus.ic_error.png
+SHA1-Digest: HisWESn8PSVNnjhjfsbMtsajomo=
+
+Name: assets/META-INF/AIR/extensions/com.u8.sdk.flash.extension/META-I
+ NF/ANE/Android-ARM/catalog.xml
+SHA1-Digest: gdk8wbsV+rmtFUf+9s2cZfXU74E=
+
+Name: assets/background.9.png
+SHA1-Digest: M3YQ4bymCLlirCApFCkEMdWdqrA=
+
+Name: assets/com.tencent.plus.blue_disable.png
+SHA1-Digest: KwQ2SLR32W8k+uF420pUXoLLAto=
+
+Name: classes.dex
+SHA1-Digest: IOeRKJIXv/JFm5KOoDg0kPJo19w=
+
+Name: res/drawable/u8_corner_background_white.xml
+SHA1-Digest: lS7O/Lw3vdf2XaGhqtz9lk7oBAg=
+
+Name: res/drawable/air_72px_mobile_eula.png
+SHA1-Digest: vEKuuJQag8T6hAscWxzbdquJYQ4=
+
+Name: res/layout/u8_layout_login_choice.xml
+SHA1-Digest: 8M6zIAW8sD5tQLjBcPLNKaPrUTQ=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: RRxOSvpmhVfCwiprVV/wZlaqQpw=
+
+Name: assets/META-INF/AIR/extensions/com.u8.sdk.flash.extension/META-I
+ NF/ANE/Android-ARM/library.swf
+SHA1-Digest: cFOxEktdzyOkRunVpjI6B5QTdak=
+
+Name: assets/yyb_friends.png
+SHA1-Digest: jnHduk4R6gxpMxjc6Oln2liiuRw=
+
+Name: assets/com.tencent.plus.gray_down.png
+SHA1-Digest: 3kvmQFE/DE41dwoZpkQMHPpWtuI=
+
+Name: lib/armeabi-v7a/libstagefright_froyo.so
+SHA1-Digest: EUXLvjWSqWdOtEeNogZ6B3XXEO0=
+
+Name: res/layout/expandable_chooser_row.xml
+SHA1-Digest: Gi+VjPO58Z7lGPR0jLnwNWDXw84=
+
+Name: assets/developer_config.properties
+SHA1-Digest: YGZG/HhAiW8kBfCQfBO/ajf/rTI=
+
+Name: assets/button_green.9.png
+SHA1-Digest: 72N51zPrka+KUNiJfTjwx3sHXAI=
+
+Name: res/drawable/mp_warning_32x32_n.png
+SHA1-Digest: eCFwTk+zmvIeM+w4WQEnsknkfNI=
+
+Name: res/drawable-hdpi/home.png
+SHA1-Digest: GyLGj1YcCIaWAZsyCr5gmUFMyxg=
+
+Name: assets/com.tencent.plus.blue_normal.png
+SHA1-Digest: xUbCnopVA5SB7IPOU07W9fIdgcQ=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: Q2LAMiuSYFi5reAqoSwCg7nXmWg=
+
+Name: lib/armeabi/libCore.so
+SHA1-Digest: 5HZaN11h6B8/ZcjTnz+cR3NSmKo=
+
+Name: assets/buttonPost.png
+SHA1-Digest: jAZacXy5ocEht6Mv0CIw6+BDN/w=
+
+Name: assets/com.tencent.plus.logo.png
+SHA1-Digest: B+1AMe3cF/KE17U2+A9Ol1T9mEA=
+
+Name: lib/armeabi-v7a/libBugly.so
+SHA1-Digest: 0v9qUkvkPwzYbIcshBTaaExE0rU=
+

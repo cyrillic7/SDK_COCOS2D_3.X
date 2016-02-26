@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    
+    <params>
+        <param name="ATET_APPID" required="1" showName="AppID" desc="ATET" bWriteInManifest="0" bWriteInClient="1" />
+        <param name="ATET_APPKEY" required="1" showName="AppKey" desc="ATET" bWriteInManifest="0" bWriteInClient="1" /> 
+        <param name="ATET_ISNEEDLOGON" required="1" showName="是否登录" desc="true/false" bWriteInManifest="0" bWriteInClient="1" />
+        <param name="ATET_CPID" required="1" showName="CPID" desc="CPID" bWriteInManifest="0" bWriteInClient="1" />
+ 		<param name="ATET_PAYFLAG_10" required="1" showName="PAYURL" desc="PAYURL" bWriteInManifest="0" bWriteInClient="1" />
+ 	 	<param name="ATET_PAYFLAG_30" required="1" showName="PAYURL" desc="PAYURL" bWriteInManifest="0" bWriteInClient="1" />
+ 		<param name="ATET_PAYFLAG_50" required="1" showName="PAYURL" desc="PAYURL" bWriteInManifest="0" bWriteInClient="1" />
+ 		<param name="ATET_PAYFLAG_100" required="1" showName="PAYURL" desc="PAYURL" bWriteInManifest="0" bWriteInClient="1" />
+ 		<param name="ATET_PAYFLAG_200" required="1" showName="PAYURL" desc="PAYURL" bWriteInManifest="0" bWriteInClient="1" />
+ 		<param name="ATET_PAYFLAG_500" required="1" showName="PAYURL" desc="PAYURL" bWriteInManifest="0" bWriteInClient="1" />
+ 		<param name="ATET_PAYURL" required="1" showName="ATET_PAYURL" desc="ATET_PAYURL" bWriteInManifest="0" bWriteInClient="1" />  
+	 
+    </params>
+    
+    <operations>
+        <operation step="1" type="mergeManifest" from="SDKManifest.xml" to="AndroidManifest.xml" />
+        <operation step="2" type="copyRes" from="assets" to="assets" />
+        <operation step="3" type="copyRes" from="libs" to="lib" />
+        <operation step="4" type="copyRes" from="res" to="res" />
+        <operation step="5" type="copyRes" from="root" to="" />
+    </operations>
+    
+    <plugins>
+        <plugin name="com.u8.sdk.ATETUser" type="1" desc="用户登录接口"/>
+        <plugin name="com.u8.sdk.ATETPay" type="2" desc="用户支付接口"/>
+    </plugins>
+    
+    <version>
+        <versionCode>1</versionCode>
+        <versionName>4.0.2</versionName>
+    </version>    
+    
+</config>

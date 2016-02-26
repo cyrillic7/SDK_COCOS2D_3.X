@@ -1,0 +1,11 @@
+<platform xmlns="http://ns.adobe.com/air/extension/13.0">
+	<packagedDependencies> 
+		<packagedDependency>android-support-v4.jar</packagedDependency> 			
+	</packagedDependencies>
+	<packagedResources>
+		<packagedResource>
+			<packageName>com.u8.sdk.ane.U8ANEExtension</packageName>			
+			<folderName>res</folderName>
+		</packagedResource>
+	</packagedResources>
+</platform>

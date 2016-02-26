@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <item name="debugger" type="raw">false</item>
+    <item name="debuginfo" type="raw">res/raw/debuginfo</item>
+    <item name="mms_cfg" type="raw">false</item>
+    <item name="rgba8888" type="raw">res/raw/rgba8888</item>
+    <item name="ss_cfg" type="raw">false</item>
+    <item name="ss_sgn" type="raw">false</item>
+</resources>

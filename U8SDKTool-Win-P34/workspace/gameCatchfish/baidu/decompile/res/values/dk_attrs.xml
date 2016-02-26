@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <declare-styleable name="TextWithLine" />
+    
+    <declare-styleable name="DKFlowLayout">
+        <attr format="dimension" name="horizontalSpacing" />
+        <attr format="dimension" name="verticalSpacing" />
+        <attr format="enum" name="orientation">
+            <enum name="horizontal" value="0" />
+            <enum name="vertical" value="1" />
+        </attr>
+        <attr format="boolean" name="debugDraw" />
+    </declare-styleable>
+    
+    <declare-styleable name="DKFlowLayout_LayoutParams">
+        <attr format="boolean" name="layout_newLine" />
+        <attr format="dimension" name="layout_horizontalSpacing" />
+        <attr format="dimension" name="layout_verticalSpacing" />
+    </declare-styleable>
+    
+    <declare-styleable name="ViewPagerIndicator">
+        <attr format="reference" name="vpiIconPageIndicatorStyle" />
+        <attr format="reference" name="vpiTabPageIndicatorStyle" />
+    </declare-styleable>
+
+    <attr format="boolean" name="centered" />
+    <attr format="color" name="selectedColor" />
+    <attr format="dimension" name="strokeWidth" />
+    <attr format="color" name="unselectedColor" />
+</resources>

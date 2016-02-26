@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="white_list_title_size">24.0sp</dimen>
+    <dimen name="white_list_body_size">20.0sp</dimen>
+    <dimen name="white_list_button_text_size">18.0sp</dimen>
+    <dimen name="white_list_button_corner_radius">4.0px</dimen>
+</resources>

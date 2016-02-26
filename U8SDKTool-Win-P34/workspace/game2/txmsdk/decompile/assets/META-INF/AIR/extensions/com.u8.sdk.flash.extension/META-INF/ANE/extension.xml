@@ -1,0 +1,13 @@
+<extension xmlns="http://ns.adobe.com/air/extension/13.0">
+	<id>com.u8.sdk.flash.extension</id>
+	<versionNumber>1</versionNumber>
+	<platforms>
+		<platform name="Android-ARM">
+			<applicationDeployment>
+				<nativeLibrary>u8sdkanelib.jar</nativeLibrary>
+				<initializer>com.u8.sdk.ane.U8ANEExtension</initializer>
+				<finalizer>com.u8.sdk.ane.U8ANEExtension</finalizer>
+			</applicationDeployment>
+		</platform>
+	</platforms>
+</extension>  
